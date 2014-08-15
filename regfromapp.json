@@ -2,6 +2,7 @@
 	"homepage": "http://www.nirsoft.net/utils/reg_file_from_application.html",
 	"version": "1.32",
 	"license": "freeware",
+	"description": "RegFromApp monitors the Registry changes made by the application that you selected, and creates a standard RegEdit registration file (.reg) that contains all the Registry changes made by the application. You can use the generated .reg file to import these changes with RegEdit when it's needed. WARNING: Do not use this tool to debug smss.exe process under Windows 7, because from unknown reason, it causes a blue screen of death.",
 	"architecture": {
 		"64bit": {
 			"url": "http://www.nirsoft.net/utils/regfromapp-x64.zip",

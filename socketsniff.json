@@ -1,0 +1,8 @@
+{
+	"homepage": "http://www.nirsoft.net/utils/socket_sniffer.html",
+	"version": "1.10",
+	"license": "freeware",
+	"description": "SocketSniff allows you to watch the Windows Sockets (WinSock) activity of the selected process.\n\nFor each created socket, the following information is displayed: socket handle, socket type, local and remote addresses, local and remote ports, total number of send/receive bytes, and more. You can also watch the content of each send or receive call, in Ascii mode or as Hex Dump.",
+	"url": "http://www.nirsoft.net/utils/socketsniff.zip",
+	"bin": "SocketSniff.exe"
+}

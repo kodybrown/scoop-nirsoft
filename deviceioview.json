@@ -1,0 +1,15 @@
+{
+	"homepage": "http://www.nirsoft.net/utils/device_io_view.html",
+	"version": "1.03",
+	"license": "freeware",
+	"description": "DeviceIOView allows you to watch the data transfer between a software or service and a device driver (DeviceIoControl calls). For each call to a device driver, the following information is displayed: Handle, Control Code, number of input bytes, number of output bytes, the name of the device handle, and all the input/output bytes, displayed as Hex dump.",
+	"architecture": {
+		"64bit": {
+			"url": "http://www.nirsoft.net/utils/deviceioview-x64.zip"
+		},
+		"32bit": {
+			"url": "http://www.nirsoft.net/utils/deviceioview.zip"
+		}
+	},
+	"bin": "DeviceIOView.exe"
+}
