@@ -1,0 +1,8 @@
+{
+	"homepage": "http://www.nirsoft.net/dot_net_tools/gac_viewer.html",
+	"version": "1.11",
+	"license": "freeware",
+	"url": "http://www.nirsoft.net/dot_net_tools/gacview.zip",
+	"hash": "f8f6b2033681aee70136ca8880197b84b08e119da0518625b42ec38ec6380045",
+	"bin": "gacview.exe"
+}
