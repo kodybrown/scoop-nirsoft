@@ -5,7 +5,7 @@ A [Scoop](http://scoop.sh) bucket of useful [NirSoft](http://www.nirsoft.net/) u
 
 To make it easy to install apps from this bucket, run:
 
-    > scoop bucket add nirsoft https://github.com/kodybrown/scoop-nirsoft
+    > scoop bucket add nirsoft
 
 ## Why does this exist?
 
