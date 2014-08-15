@@ -5,7 +5,7 @@
 	"architecture": {
 		"64bit": {
 			"url": "http://www.nirsoft.net/utils/regfromapp-x64.zip",
-			"hash": "62df458bc521001cd9a947643a84810ecbaa5a16b5c8e87d80df8e34c4a16fe2"
+			"hash": "3026008acb91c4caca868c2889cd2ab9818d8a02352e47f2d472c14e6c298c82"
 		},
 		"32bit": {
 			"url": "http://www.nirsoft.net/utils/regfromapp.zip",
