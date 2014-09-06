@@ -5,7 +5,8 @@
 	"description": "RegDllView is a small utility that displays the list of all registered dll/ocx/exe files (COM registration). For each registered file, you can view the last date/time that it was registered, and the list of all registration entries (CLSID/ProgID).\n\nRegDllView also allows you to unregister dll/ocx files that you don't need on your system anymore. If you have dll/ocx files that don't exist on your system anymore, but their registration entries are still exist in your Registry, you can manually remove these entries by using 'Delete All Entries For Selected Files' option.\n\nStarting from version 1.35, RegDllView also allows you to register dll/ocx files (like regsvr32), simply by dragging one or more files from Explorer folder into the window of RegDllView.",
 	"architecture": {
 		"64bit": {
-			"url": "http://www.nirsoft.net/utils/regdllview-x64.zip"
+			"url": "http://www.nirsoft.net/utils/regdllview-x64.zip",
+			"hash": "dc23820ea883e1c86c454162f47e80f77fe24528957f6292d26b2abf47e058e9"
 		},
 		"32bit": {
 			"url": "http://www.nirsoft.net/utils/regdllview.zip"

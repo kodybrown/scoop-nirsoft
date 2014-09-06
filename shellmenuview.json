@@ -5,12 +5,12 @@
 	"description": "ShellMenuView is a small utility that display the list of static menu items that appeared in the context menu when you right-click a file/folder on Windows Explorer, and allows you to easily disable unwanted menu items.",
 	"architecture": {
 		"64bit": {
-			"url": "http://www.nirsoft.net/utils/shmnview-x64.zip"
+			"url": "http://www.nirsoft.net/utils/shmnview-x64.zip",
+			"hash": "7ba1435678d3bea3d51e55fd4f3cda6315a9aed1cf866da8c8d4674503640e2e",
 		},
 		"32bit": {
 			"url": "http://www.nirsoft.net/utils/shmnview.zip"
 		}
 	},
-	"hash": "7ba1435678d3bea3d51e55fd4f3cda6315a9aed1cf866da8c8d4674503640e2e",
 	"bin": "shmnview.exe"
 }

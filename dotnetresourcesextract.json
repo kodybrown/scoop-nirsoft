@@ -3,13 +3,6 @@
 	"version": "1.01",
 	"license": "freeware",
 	"description": "DotNetResourcesExtract is a small utility that scan dll/exe files of .NET applications, and extract all .NET embedded resources (Bitmaps, Gifs, HTML files, and so on) stored in them into the folder that you specify.",
-	"architecture": {
-		"64bit": {
-			"url": "http://www.nirsoft.net/utils/dotnetresourcesextract-x64.zip"
-		},
-		"32bit": {
-			"url": "http://www.nirsoft.net/utils/dotnetresourcesextract.zip"
-		}
-	},
+	"url": "http://www.nirsoft.net/utils/dotnetresourcesextract.zip",
 	"bin": "DotNetResourcesExtract.exe"
 }

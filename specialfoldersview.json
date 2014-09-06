@@ -5,12 +5,12 @@
 	"description": "Windows operating system have dozens of special folders that are used for storing application settings and files, storing Internet files, saving temporary files, storing shortcuts to other files, and so on.\n\nThis utility displays the list of all special folders in your system, and allows you to easily jump to the right folder simply by double-clicking the folder item. You can also save the list of all folder paths into text/html/xml file.",
 	"architecture": {
 		"64bit": {
-			"url": "http://www.nirsoft.net/utils/specialfoldersview-x64.zip"
+			"url": "http://www.nirsoft.net/utils/specialfoldersview-x64.zip",
+			"hash": "21d57b36e288472832c4f77f63ccf9083a6a02e1c6254a2f7ec91d0fb57c1a0e",
 		},
 		"32bit": {
 			"url": "http://www.nirsoft.net/utils/specialfoldersview.zip"
 		}
 	},
-	"hash": "21d57b36e288472832c4f77f63ccf9083a6a02e1c6254a2f7ec91d0fb57c1a0e",
 	"bin": "SpecialFoldersView.exe"
 }
