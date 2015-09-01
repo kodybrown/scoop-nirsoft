@@ -1,12 +1,12 @@
 {
 	"homepage": "http://www.nirsoft.net/utils/simple_program_debugger.html",
-	"version": "1.01",
+	"version": "1.03",
 	"license": "freeware",
 	"description": "SimpleProgramDebugger is a simple debugging tool for Windows that attaches to existing running program or starts a new program in debugging mode, and then displays all major debugging events occurs while the program is running, including Exception, Create Thread, Create Process, Exit Thread, Exit Process, Load DLL, Unload Dll, and Debug String.\n\nAfter the debugging events are accumulated, you can easily export them into comma-delimited/tab-delimited/xml/html file or copy them to the clipboard and then paste them into Excel or any other spreadsheet application.",
 	"architecture": {
 		"64bit": {
 			"url": "http://www.nirsoft.net/utils/simpleprogramdebugger-x64.zip",
-			"hash": "880d26083a9eb2c964ddbb0523ec17a17e9030beeacd51b2f0f2c62659771fdd"
+			"hash": "f4317948f208487373f1ca3899ab7ee81a316924a002409965f21f2e1f2e9d1a"
 		},
 		"32bit": {
 			"url": "http://www.nirsoft.net/utils/simpleprogramdebugger.zip"
