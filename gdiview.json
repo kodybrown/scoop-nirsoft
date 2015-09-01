@@ -1,12 +1,12 @@
 {
 	"homepage": "http://www.nirsoft.net/utils/gdi_handles.html",
-	"version": "1.16",
+	"version": "1.20",
 	"license": "freeware",
 	"description": "GDIView is a unique tool that displays the list of GDI handles (brushes, pens, fonts, bitmaps, and others) opened by every process. It displays the total count for each type of GDI handle, as well as detailed information about each handle.\n\nThis tool can be useful for developers that need to trace GDI resources leak in their software.",
 	"architecture": {
 		"64bit": {
 			"url": "http://www.nirsoft.net/utils/gdiview-x64.zip",
-			"hash": "d5405abde6509decae77801c8df695713203e5dc0d96869053c0a473dfc2e5c1"
+			"hash": "1643089c24257fb2bc0436f04da34439926019fd2a79263136cb213b0bca9ab7"
 		},
 		"32bit": {
 			"url": "http://www.nirsoft.net/utils/gdiview.zip"
