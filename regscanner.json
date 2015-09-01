@@ -9,7 +9,8 @@
 			"hash": "107c8473253ae7a2330707cad4a80101b53cce3066c5f10ed04cf15875017f51"
 		},
 		"32bit": {
-			"url": "http://www.nirsoft.net/utils/regscanner.zip"
+			"url": "http://www.nirsoft.net/utils/regscanner.zip",
+			"hash": "fb1414031f0ec85631bf80e917745bf833e6f305a1770c7fb58fb5616eac213b"
 		}
 	},
 	"bin": "RegScanner.exe"

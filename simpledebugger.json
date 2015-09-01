@@ -9,7 +9,8 @@
 			"hash": "f4317948f208487373f1ca3899ab7ee81a316924a002409965f21f2e1f2e9d1a"
 		},
 		"32bit": {
-			"url": "http://www.nirsoft.net/utils/simpleprogramdebugger.zip"
+			"url": "http://www.nirsoft.net/utils/simpleprogramdebugger.zip",
+			"hash": "a07f584b1e9c62d12c714a498e594e851d87f61491905917d1e82981062c9cab"
 		}
 	},
 	"bin": "SimpleProgramDebugger.exe"

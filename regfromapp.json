@@ -10,7 +10,7 @@
 		},
 		"32bit": {
 			"url": "http://www.nirsoft.net/utils/regfromapp.zip",
-			"hash": "fe4807b4698ec89f82de7d85d32deaa4c772fc871537e31fb0fccf4473455cb8"
+			"hash": "54977dc7f645e8b2ede1c40521cd04e3521c454800310cc8589020cec133a18d"
 		}
 	},
 	"bin": "RegFromApp.exe"

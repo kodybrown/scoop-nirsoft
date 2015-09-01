@@ -9,7 +9,8 @@
 			"hash": "1643089c24257fb2bc0436f04da34439926019fd2a79263136cb213b0bca9ab7"
 		},
 		"32bit": {
-			"url": "http://www.nirsoft.net/utils/gdiview.zip"
+			"url": "http://www.nirsoft.net/utils/gdiview.zip",
+			"hash": "6e7c00e8d40ac28e1569cfb40ff91c5d9bfebda9324e4ce53e025c7a912ae2cd"
 		}
 	},
 	"bin": "GDIView.exe"

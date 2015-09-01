@@ -9,7 +9,8 @@
 			"hash": "363488649ad556299be63b3c99c4ff18bd12d77823cad63f37354bcedd871770"
 		},
 		"32bit": {
-			"url": "http://www.nirsoft.net/utils/regdllview.zip"
+			"url": "http://www.nirsoft.net/utils/regdllview.zip",
+			"hash": "eb50fa1cbf1c1c673da6313b438298cbaaea066dcbecbdfd4ca7972c74bf5c1f"
 		}
 	},
 	"bin": "RegDllView.exe"

@@ -9,7 +9,8 @@
 			"hash": "2dba678c78752e8e74ccdcf43033e85dbc313b5de764db3eef86c4fa21d801b8"
 		},
 		"32bit": {
-			"url": "http://www.nirsoft.net/utils/shmnview.zip"
+			"url": "http://www.nirsoft.net/utils/shmnview.zip",
+			"hash": "7cf222798faa6ddb45ad25a8ed098c11b63a0892e0210f2c5cd24769778d7e5b"
 		}
 	},
 	"bin": "shmnview.exe"
