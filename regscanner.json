@@ -1,12 +1,12 @@
 {
 	"homepage": "http://www.nirsoft.net/utils/regscanner.html",
-	"version": "2.04",
+	"version": "2.10",
 	"license": "freeware",
 	"description": "RegScanner is a small utility that allows you to scan the Registry, find the desired Registry values that match to the specified search criteria, and display them in one list. After finding the Registry values, you can easily jump to the right value in RegEdit, simply by double-clicking the desired Registry item. You can also export the found Registry values into a .reg file that can be used in RegEdit.",
 	"architecture": {
 		"64bit": {
 			"url": "http://www.nirsoft.net/utils/regscanner-x64.zip",
-			"hash": "f897aec1c515b1c111e5533185b7b81cf75fc2a4c2d9e5aa98beddbe04722726"
+			"hash": "107c8473253ae7a2330707cad4a80101b53cce3066c5f10ed04cf15875017f51"
 		},
 		"32bit": {
 			"url": "http://www.nirsoft.net/utils/regscanner.zip"
