@@ -1,0 +1,24 @@
+{
+	"homepage": "http://www.nirsoft.net/utils/opened_files_view.html",
+	"version": "1.70",
+	"license": "freeware",
+	"description": "OpenedFilesView displays the list of all opened files on your system. For each opened file, additional information is displayed: handle value, read/write/delete access, file position, the process that opened the file, and more... 
+Optionally, you can also close one or more opened files, or close the process that opened these files.
+This utility is especially useful if you try to delete/move/open a file and you get one of the following error messages:
+
+Cannot delete [filename]: There has been a sharing violation. The source or destination file may be in use.
+Cannot delete [filename]: It is being used by another person or program. Close any programs that might be using the file and try again.
+
+When you get one of these error messages, OpenedFilesView will show you which process lock your file. Closing the right process will solve this problem. optionally, you can also release the file by closing the handle from OpenedFilesView utility. However, be aware that after closing a file in this way, the program that opened the file may become unstable, and even crash",
+	"architecture": {
+		"64bit": {
+			"url": "http://www.nirsoft.net/utils/ofview-x64.zip",
+			"hash": "fea1383fe0c14579a6777694c1052f874959ab484236f7be5b15bfc61f9df982"
+		},
+		"32bit": {
+			"url": "http://www.nirsoft.net/utils/ofview.zip",
+			"hash": "8f3ce04cbfd074ff0c8d6d361472dd27d5d4c53d675fb385a957ca8160a1d303"
+		}
+	},
+	"bin": "OpenedFilesView.exe"
+}
