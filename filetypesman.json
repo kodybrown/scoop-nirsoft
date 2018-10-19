@@ -6,11 +6,11 @@
 	"architecture": {
 		"64bit": {
 			"url": "http://www.nirsoft.net/utils/filetypesman-x64.zip",
-			"hash": "cc779868a59ef4b2d213ba3d6be3666285c7d0f0491e8d378e2247406eed4c9c"
+			"hash": "a92b316f3b14ace527df18fd39f9dee3af6153a758d4301df54718a9eb07a605"
 		},
 		"32bit": {
 			"url": "http://www.nirsoft.net/utils/filetypesman.zip",
-			"hash": "a6af0c35e09aeaba34331005431bc3e66cb30c16a0f86685150b5fa9c8e8e9a2"
+			"hash": "c46cdf5dc1d4c6233b2e900f13685b07553a5f7b184d579db4a5a5b8b22017c6"
 		}
 	},
 	"bin": "FileTypesMan.exe"
