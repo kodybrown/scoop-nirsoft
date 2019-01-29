@@ -6,11 +6,11 @@
 	"architecture": {
 		"64bit": {
 			"url": "https://nirsoft.net/utils/taskschedulerview-x64.zip",
-			"hash": "a4706177ca07271d7447b3611e4a93a0422780a5"
+			"hash": "9891f52f84ec5a2c830d7ca6e374f4adc7a341cf52ce3310448b297666cc03bb"
 		},
 		"32bit": {
 			"url": "https://nirsoft.net/utils/taskschedulerview.zip",
-			"hash": "733221d2b642baffdb03d418719c2a1d6d65dbdf"
+			"hash": "99518ff020f5a041b1d68a752fc81b345e755b898c74bc29a9933cf3029946aa"
 		}
 	},
 	"bin": "TaskSchedulerView.exe"

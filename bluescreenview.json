@@ -6,11 +6,11 @@
 	"architecture": {
 		"64bit": {
 			"url": "https://nirsoft.net/utils/bluescreenview-x64.zip",
-			"hash": "6b4484a300da934a351f2ffb8147ba5501e8ef42"
+			"hash": "df57d4c9418dd2771035f2f7b70952caeb20d2269af683a0ab0665125c821479"
 		},
 		"32bit": {
 			"url": "https://nirsoft.net/utils/bluescreenview.zip",
-			"hash": "4f9d6d829fc83c9946099e9704b982e8583574c3"
+			"hash": "15ba3b0ca0a1ff21e89715da52ecc5918177b97ce40903d299fd591909e7b3ab"
 		}
 	},
 	"bin": "BlueScreenView.exe"

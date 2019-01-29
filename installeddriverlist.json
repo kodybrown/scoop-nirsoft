@@ -6,11 +6,11 @@
 	"architecture": {
 		"64bit": {
 			"url": "https://nirsoft.net/utils/installeddriverslist-x64.zip",
-			"hash": "970273d9d51e9b1306be719b72a84f799d9f4e42"
+			"hash": "132499d347038f202def2774c9c15c9b025d5c47f3cfc64ebb1f2f033dfd8b81"
 		},
 		"32bit": {
 			"url": "https://nirsoft.net/utils/installeddriverslist.zip",
-			"hash": "59b535d05615205e2c19b1062314b052821cce09"
+			"hash": "8129da3386a3a84d244b4d2248bd3e5f1ee992a02ae8a6dde537aee5f3567279"
 		}
 	},
 	"bin": "InstalledDriversList.exe"
