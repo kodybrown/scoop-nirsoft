@@ -1,7 +1,7 @@
 scoop-nirsoft
 =============
 
-A [Scoop](http://scoop.sh) bucket of useful [NirSoft](http://www.nirsoft.net/) utilities.
+A [Scoop](http://scoop.sh) bucket of useful [NirSoft](https://www.nirsoft.net/) utilities.
 
 To make it easy to install apps from this bucket, run:
 

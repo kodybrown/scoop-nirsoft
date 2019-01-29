@@ -1,15 +1,15 @@
 {
-	"homepage": "http://www.nirsoft.net/utils/sysexp.html",
+	"homepage": "https://www.nirsoft.net/utils/sysexp.html",
 	"version": "1.76",
 	"license": "freeware",
 	"description": "SysExporter utility allows you to grab the data stored in standard list-views, tree-views, list boxes, combo boxes, text-boxes, and WebBrowser/HTML controls from almost any application running on your system, and export it to text, HTML or XML file.\n\nHere's some examples for data that you can export with SysExporter:\n\n* The files list inside archive file (.zip, .rar, and so on) as displayed by WinZip or 7-Zip File Manager.\n* The files list inside a folder.\n* The event log of Windows.\n* The list of emails and contacts in Outlook Express.\n* The Registry values displayed in the right pane of the Registry Editor.\n* The data displayed by SysInternals utilities (Registry Monitor, File Monitor, Process Explorer, and others.)\n* The text inside a standard message-box of Windows.\n* The HTML inside any instance of Internet Explorer.",
 	"architecture": {
 		"64bit": {
-			"url": "http://www.nirsoft.net/utils/sysexp-x64.zip",
+			"url": "https://www.nirsoft.net/utils/sysexp-x64.zip",
 			"hash": "896e480fb7d05aecb7d16a634971e44ae42051c5353f74b87aaf3fb439361028"
 		},
 		"32bit": {
-			"url": "http://www.nirsoft.net/utils/sysexp.zip",
+			"url": "https://www.nirsoft.net/utils/sysexp.zip",
 			"hash": "02fdde2c89f553abef26b8ba3a73ba43ec6a8105d62a65807a58044dda9c99f5"
 		}
 	},

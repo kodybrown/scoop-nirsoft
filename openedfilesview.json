@@ -1,5 +1,5 @@
 {
-	"homepage": "http://www.nirsoft.net/utils/opened_files_view.html",
+	"homepage": "https://www.nirsoft.net/utils/opened_files_view.html",
 	"version": "1.86",
 	"license": "freeware",
 	"description": "OpenedFilesView displays the list of all opened files on your system. For each opened file, additional information is displayed: handle value, read/write/delete access, file position, the process that opened the file, and more... 
@@ -12,11 +12,11 @@ Cannot delete [filename]: It is being used by another person or program. Close a
 When you get one of these error messages, OpenedFilesView will show you which process lock your file. Closing the right process will solve this problem. optionally, you can also release the file by closing the handle from OpenedFilesView utility. However, be aware that after closing a file in this way, the program that opened the file may become unstable, and even crash",
 	"architecture": {
 		"64bit": {
-			"url": "http://www.nirsoft.net/utils/ofview-x64.zip",
+			"url": "https://www.nirsoft.net/utils/ofview-x64.zip",
 			"hash": "a250cfe10a4cf8fe3044508c1d07bddce45809467d867977bed1fa9f5f6d2c9c"
 		},
 		"32bit": {
-			"url": "http://www.nirsoft.net/utils/ofview.zip",
+			"url": "https://www.nirsoft.net/utils/ofview.zip",
 			"hash": "3e1861447f3e5e30e0530102a3994f38043295fe775c57238eb3aad17266edc1"
 		}
 	},
