@@ -1,0 +1,17 @@
+{
+	"homepage": "https://nirsoft.net/utils/task_scheduler_view.html",
+	"version": "1.46",
+	"license": "freeware",
+	"description": "TaskSchedulerView is a simple tool for Windows Vista/7/8/10 that displays in a single table the list of all tasks from the Task Scheduler of Windows. It also allows you to easily disable/enable mutiple tasks at once. For every task, the following information is displayed: Task Name, Description, Status, Hidden (Yes/No), Last Run/Next Run Times, Task Folder, EXE filename or COM handler of the task, number of missed runs, and more...",
+	"architecture": {
+		"64bit": {
+			"url": "https://nirsoft.net/utils/taskschedulerview-x64.zip",
+			"hash": "9891f52f84ec5a2c830d7ca6e374f4adc7a341cf52ce3310448b297666cc03bb"
+		},
+		"32bit": {
+			"url": "https://nirsoft.net/utils/taskschedulerview.zip",
+			"hash": "99518ff020f5a041b1d68a752fc81b345e755b898c74bc29a9933cf3029946aa"
+		}
+	},
+	"bin": "TaskSchedulerView.exe"
+}
