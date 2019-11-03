@@ -1,0 +1,17 @@
+{
+    "homepage": "https://www.nirsoft.net/utils/wake_on_lan.html",
+    "version": "1.85",
+    "license": "freeware",
+    "description": "This utility allows you to easily turn on one or more computers remotely by sending Wake-on-LAN (WOL) packet to the remote computers.\n\nWhen your computers are turned on, WakeMeOnLan allows you to scan your network, and collect the MAC addresses of all your computers, and save the computers list into a file. Later, when your computers are turned off or in standby mode, you can use the stored computers list to easily choose the computer you want to turn on, and then turn on all these computers with a single click.\n\nWakeMeOnLan also allows you to turn on a computer from command-line, by specifying the computer name, IP address, or the MAC address of the remote network card.",
+    "architecture": {
+        "32bit": {
+            "url": "https://www.nirsoft.net/utils/wakemeonlan.zip",
+            "hash": "9213f6b6299477b25ada1f73e9ee5576c9aa8bdf112d0e35b0f598c748aecce7"
+        },
+        "64bit": {
+            "url": "https://www.nirsoft.net/utils/wakemeonlan-x64.zip",
+            "hash": "35e8c09ee1215f61c379c1703a1af2796445c8cc0f10184c208c1f63b0cc6e3d"
+        }
+    },
+    "bin": "WakeMeOnLan.exe"
+}
