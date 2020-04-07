@@ -28,5 +28,11 @@
             }
         }
     },
-    "bin": "FileTypesMan.exe"
+    "bin": "FileTypesMan.exe",
+    "shortcuts": [
+        [
+            "FileTypesMan.exe",
+            "FileTypesMan"
+        ]
+    ]
 }
