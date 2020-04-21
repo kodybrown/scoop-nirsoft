@@ -28,5 +28,11 @@
             }
         }
     },
-    "bin": "SimpleProgramDebugger.exe"
+    "bin": "SimpleProgramDebugger.exe",
+    "shortcuts": [
+        [
+            "SimpleProgramDebugger.exe",
+            "SimpleProgramDebugger"
+        ]
+    ]
 }

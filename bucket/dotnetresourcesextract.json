@@ -9,5 +9,11 @@
     "autoupdate": {
         "url": "https://www.nirsoft.net/utils/dotnetresourcesextract.zip"
     },
-    "bin": "DotNetResourcesExtract.exe"
+    "bin": "DotNetResourcesExtract.exe",
+    "shortcuts": [
+        [
+            "DotNetResourcesExtract.exe",
+            "DotNetResourcesExtract"
+        ]
+    ]
 }

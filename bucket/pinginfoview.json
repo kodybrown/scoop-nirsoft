@@ -9,5 +9,11 @@
     "autoupdate": {
         "url": "https://www.nirsoft.net/utils/pinginfoview.zip"
     },
-    "bin": "PingInfoView.exe"
+    "bin": "PingInfoView.exe",
+    "shortcuts": [
+        [
+            "PingInfoView.exe",
+            "PingInfoView"
+        ]
+    ]
 }

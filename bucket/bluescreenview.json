@@ -24,5 +24,11 @@
             }
         }
     },
-    "bin": "BlueScreenView.exe"
+    "bin": "BlueScreenView.exe",
+    "shortcuts": [
+        [
+            "BlueScreenView.exe",
+            "BlueScreenView"
+        ]
+    ]
 }

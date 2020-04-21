@@ -28,5 +28,11 @@
             }
         }
     },
-    "bin": "SpecialFoldersView.exe"
+    "bin": "SpecialFoldersView.exe",
+    "shortcuts": [
+        [
+            "SpecialFoldersView.exe",
+            "SpecialFoldersView"
+        ]
+    ]
 }

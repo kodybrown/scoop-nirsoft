@@ -9,5 +9,11 @@
     "autoupdate": {
         "url": "https://www.nirsoft.net/dot_net_tools/gacview.zip"
     },
-    "bin": "gacview.exe"
+    "bin": "gacview.exe",
+    "shortcuts": [
+        [
+            "gacview.exe",
+            "GACView"
+        ]
+    ]
 }

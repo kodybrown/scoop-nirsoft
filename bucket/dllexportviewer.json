@@ -28,5 +28,11 @@
             }
         }
     },
-    "bin": "dllexp.exe"
+    "bin": "dllexp.exe",
+    "shortcuts": [
+        [
+            "dllexp.exe",
+            "DLL Export Viewer"
+        ]
+    ]
 }

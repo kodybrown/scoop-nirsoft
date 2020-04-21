@@ -24,5 +24,11 @@
             }
         }
     },
-    "bin": "RegScanner.exe"
+    "bin": "RegScanner.exe",
+    "shortcuts": [
+        [
+            "RegScanner.exe",
+            "RegScanner"
+        ]
+    ]
 }

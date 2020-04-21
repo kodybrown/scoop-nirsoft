@@ -28,5 +28,11 @@
             }
         }
     },
-    "bin": "GDIView.exe"
+    "bin": "GDIView.exe",
+    "shortcuts": [
+        [
+            "GDIView.exe",
+            "GDIView"
+        ]
+    ]
 }

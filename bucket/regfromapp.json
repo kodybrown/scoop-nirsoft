@@ -24,5 +24,11 @@
             }
         }
     },
-    "bin": "RegFromApp.exe"
+    "bin": "RegFromApp.exe",
+    "shortcuts": [
+        [
+            "RegFromApp.exe",
+            "RegFromApp"
+        ]
+    ]
 }
