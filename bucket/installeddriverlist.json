@@ -24,5 +24,11 @@
             }
         }
     },
-    "bin": "InstalledDriversList.exe"
+    "bin": "InstalledDriversList.exe",
+    "shortcuts": [
+        [
+            "InstalledDriversList.exe",
+            "InstalledDriversList"
+        ]
+    ]
 }

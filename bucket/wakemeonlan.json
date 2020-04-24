@@ -24,5 +24,11 @@
             }
         }
     },
-    "bin": "WakeMeOnLan.exe"
+    "bin": "WakeMeOnLan.exe",
+    "shortcuts": [
+        [
+            "WakeMeOnLan.exe",
+            "WakeMeOnLan"
+        ]
+    ]
 }

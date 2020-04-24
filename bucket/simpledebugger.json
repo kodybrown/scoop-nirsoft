@@ -1,7 +1,7 @@
 {
     "homepage": "https://www.nirsoft.net/utils/simple_program_debugger.html",
     "checkver": "SimpleProgramDebugger v([\\d.]+)",
-    "version": "1.05",
+    "version": "1.10",
     "license": "freeware",
     "description": [
         "SimpleProgramDebugger is a simple debugging tool for Windows that attaches to existing running program or starts a new program in debugging mode, and then displays all major debugging events occurs while the program is running, including Exception, Create Thread, Create Process, Exit Thread, Exit Process, Load DLL, Unload Dll, and Debug String.",
@@ -11,11 +11,11 @@
     "architecture": {
         "64bit": {
             "url": "https://www.nirsoft.net/utils/simpleprogramdebugger-x64.zip",
-            "hash": "6bd31e2c21e74bde6d2c2ca9811d17d5dd10be30e3b2b38aad8f6ffa3fc4222d"
+            "hash": "1311b5aecf16d00c3ccc19807e27eac5e1c2de9d75a4b5dc49ad45420f3416c7"
         },
         "32bit": {
             "url": "https://www.nirsoft.net/utils/simpleprogramdebugger.zip",
-            "hash": "998534cf82148c0d4d89cb12ca57a349e77a560ceb83332b7f7ee35037fe1aab"
+            "hash": "63ad53bf9a1261b6a6caf2acac222bf07e18d9c15668b2174b11d67685508bb9"
         }
     },
     "autoupdate": {
@@ -28,5 +28,11 @@
             }
         }
     },
-    "bin": "SimpleProgramDebugger.exe"
+    "bin": "SimpleProgramDebugger.exe",
+    "shortcuts": [
+        [
+            "SimpleProgramDebugger.exe",
+            "SimpleProgramDebugger"
+        ]
+    ]
 }

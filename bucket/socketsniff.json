@@ -13,5 +13,11 @@
     "autoupdate": {
         "url": "https://www.nirsoft.net/utils/socketsniff.zip"
     },
-    "bin": "SocketSniff.exe"
+    "bin": "SocketSniff.exe",
+    "shortcuts": [
+        [
+            "SocketSniff.exe",
+            "SocketSniff"
+        ]
+    ]
 }

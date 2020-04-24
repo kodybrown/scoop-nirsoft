@@ -28,5 +28,11 @@
             }
         }
     },
-    "bin": "shexview.exe"
+    "bin": "shexview.exe",
+    "shortcuts": [
+        [
+            "shexview.exe",
+            "ShellExView"
+        ]
+    ]
 }

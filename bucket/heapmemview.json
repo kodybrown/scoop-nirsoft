@@ -28,5 +28,11 @@
             }
         }
     },
-    "bin": "HeapMemView.exe"
+    "bin": "HeapMemView.exe",
+    "shortcuts": [
+        [
+            "HeapMemView.exe",
+            "HeapMemView"
+        ]
+    ]
 }

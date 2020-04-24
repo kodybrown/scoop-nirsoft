@@ -24,5 +24,11 @@
             }
         }
     },
-    "bin": "shmnview.exe"
+    "bin": "shmnview.exe",
+    "shortcuts": [
+        [
+            "shmnview.exe",
+            "ShellMenuView"
+        ]
+    ]
 }

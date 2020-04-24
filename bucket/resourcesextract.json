@@ -28,5 +28,11 @@
             }
         }
     },
-    "bin": "ResourcesExtract.exe"
+    "bin": "ResourcesExtract.exe",
+    "shortcuts": [
+        [
+            "ResourcesExtract.exe",
+            "ResourcesExtract"
+        ]
+    ]
 }

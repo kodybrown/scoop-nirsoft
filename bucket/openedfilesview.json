@@ -33,5 +33,11 @@
             }
         }
     },
-    "bin": "OpenedFilesView.exe"
+    "bin": "OpenedFilesView.exe",
+    "shortcuts": [
+        [
+            "OpenedFilesView.exe",
+            "OpenedFilesView"
+        ]
+    ]
 }

@@ -24,5 +24,11 @@
             }
         }
     },
-    "bin": "DeviceIOView.exe"
+    "bin": "DeviceIOView.exe",
+    "shortcuts": [
+        [
+            "DeviceIOView.exe",
+            "DeviceIOView"
+        ]
+    ]
 }
