@@ -1,0 +1,34 @@
+{
+    "homepage": "https://www.nirsoft.net/utils/sound_volume_view.html",
+    "checkver": "SoundVolumeView v([\\d.]+)",
+    "version": "2.10",
+    "license": "freeware",
+    "description": "SoundVolumeView is a simple tool for Windows Vista/7/8/2008/10 that displays general information and current volume level for all active sound components on your system, and allows you to mute and unmute them instantly. SoundVolumeView also allows you to save a sound profile into a file, containing the current volume level and the mute/unmute state of all sound components, as well as the default sound devices, and then later, load the same file to restore exactly the same volume levels and settings.",
+    "architecture": {
+        "64bit": {
+            "url": "https://www.nirsoft.net/utils/soundvolumeview-x64.zip",
+            "hash": "42410137ba837288a945c8567c2349bc970474363bdf1e5f129d86bfa3e5d4ab"
+        },
+        "32bit": {
+            "url": "https://www.nirsoft.net/utils/soundvolumeview.zip",
+            "hash": "071219afbc849fdc7d6051d84884259439854a6465d9316fc53e5713a2ec7203"
+        }
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://www.nirsoft.net/utils/soundvolumeview-x64.zip"
+            },
+            "32bit": {
+                "url": "https://www.nirsoft.net/utils/soundvolumeview.zip"
+            }
+        }
+    },
+    "bin": "",
+    "shortcuts": [
+        [
+            "SoundVolumeView.exe",
+            "SoundVolumeView"
+        ]
+    ]
+}
