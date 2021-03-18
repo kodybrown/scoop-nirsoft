@@ -1,0 +1,19 @@
+{
+    "homepage": "https://www.nirsoft.net/utils/web_browser_password.html",
+    "checkver": "WebBrowserPassView v([\\d.]+)",
+    "version": "2.10",
+    "license": "freeware",
+    "description": "WebBrowserPassView is a password recovery tool that reveals the passwords stored by the following Web browsers: Internet Explorer (Version 4.0 - 11.0), Mozilla Firefox (All Versions), Google Chrome, Safari, and Opera. This tool can be used to recover your lost/forgotten password of any Website, including popular Web sites, like Facebook, Yahoo, Google, and GMail, as long as the password is stored by your Web Browser. After retrieving your lost passwords, you can save them into text/html/csv/xml file, by using the 'Save Selected Items' option (Ctrl+S).",
+    "url": "https://www.nirsoft.net/toolsdownload/webbrowserpassview.zip",
+    "hash": "46836b85d215e47d3d84b75422e3eec67cc21e735157f8cdbf7b77c4c1cebf56",
+    "autoupdate": {
+        "url": "https://www.nirsoft.net/toolsdownload/webbrowserpassview.zip"
+    },
+    "bin": "WebBrowserPassView.exe",
+    "shortcuts": [
+        [
+            "WebBrowserPassView.exe",
+            "WebBrowserPassView"
+        ]
+    ]
+}
