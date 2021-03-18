@@ -1,17 +1,17 @@
 {
     "homepage": "https://www.nirsoft.net/utils/uninstall_view.html",
     "checkver": "UninstallView v([\\d.]+)",
-    "version": "1.36",
+    "version": "1.41",
     "license": "freeware",
     "description": "UninstallView is a tool for Windows that collects information about all programs installed on your system and displays the details of the installed programs in one table. You can use it to get installed programs information for your local system, for remote computer on your network, and for external hard-drive plugged to your computer. It also allows you to easily uninstall a software on your local computer and remote computer (Including quiet uninstall if the installer supports it)",
     "architecture": {
         "64bit": {
             "url": "https://nirsoft.net/utils/uninstallview-x64.zip",
-            "hash": "54c23627453c7aa426e5b29a3ad1a7dccf184bea83614ab9f72ebc997b6aecda"
+            "hash": "da88bb17e4bcd2ab38541ec23a8098a54a09ea4555f24994e24d5cd0fb27d9a9"
         },
         "32bit": {
             "url": "https://nirsoft.net/utils/uninstallview.zip",
-            "hash": "1b82fd46125a90d1eacda98b4967a335463117768946549820ade63d2948e143"
+            "hash": "7d065915b2a612a8a09d9bea00f047644fb1e5d2a54df9e7ce093fa39eae27a2"
         }
     },
     "autoupdate": {
