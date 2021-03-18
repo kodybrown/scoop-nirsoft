@@ -1,11 +1,11 @@
 {
     "homepage": "https://www.nirsoft.net/utils/multiple_ping_tool.html",
     "checkver": "PingInfoView v([\\d.]+)",
-    "version": "2.02",
+    "version": "2.15",
     "license": "freeware",
     "description": "PingInfoView is a small utility that allows you to easily ping multiple host names and IP addresses, and watch the result in one table. It automatically ping to all hosts every number of seconds that you specify, and displays the number of succeed and failed pings, as well as the average ping time. You can also save the ping result into text/html/xml file, or copy it to the clipboard.",
     "url": "https://www.nirsoft.net/utils/pinginfoview.zip",
-    "hash": "9c074b15ff6d0bbf74f668a51907581f85eabec7cbaec42e4a03454719a95f45",
+    "hash": "d22f5e1cae00d30ade975cdd82987da90a8ca3736e4a998fa7d21ab750ef3585",
     "autoupdate": {
         "url": "https://www.nirsoft.net/utils/pinginfoview.zip"
     },
