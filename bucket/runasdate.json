@@ -1,5 +1,5 @@
 {
-    "homepage": "https://www.nirsoft.net/utils/product_cd_key_viewer.html",
+    "homepage": "https://www.nirsoft.net/utils/run_as_date.html",
     "checkver": "RunAsDate v([\\d.]+)",
     "version": "1.37",
     "license": "freeware",
