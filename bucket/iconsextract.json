@@ -1,0 +1,19 @@
+{
+    "homepage": "https://www.nirsoft.net/utils/iconsext.html",
+    "checkver": "IconsExt v([\\d.]+)",
+    "version": "1.95",
+    "license": "freeware",
+    "description": "The IconsExtract utility scans the files and folders on your computer, and extract the icons and cursors stored in EXE, DLL, OCX, CPL, and in other file types. You can save the extracted icons to ICO files (or CUR files for cursors), or copy the image of a single icon into the clipboard. ",
+    "url": "https://www.nirsoft.net/utils/iconsext.zip",
+    "hash": "97582531DD0176E312F3A8B101E50D02224970AEC5030F0E0FF2AC767F572981",
+    "autoupdate": {
+                "url": "https://www.nirsoft.net/utils/iconsext.zip"
+    },
+    "bin": "iconsext.exe",
+    "shortcuts": [
+        [
+            "iconsext.exe",
+            "IconsExt"
+        ]
+    ]
+}
