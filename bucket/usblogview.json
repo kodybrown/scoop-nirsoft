@@ -1,0 +1,14 @@
+{
+    "homepage": "https://www.nirsoft.net/utils/usb_log_view.html",
+    "checkver": "USBLogView v([\\d.]+)",
+    "version": "1.26",
+    "license": "freeware",
+    "description": "USBLogView is a small utility that runs in the background and records the details of any USB device that is plugged or unplugged into your system.",
+    "autoupdate": {
+        "url": "https://www.nirsoft.net/utils/usblogview.zip"
+    },
+    "bin": "USBLogView.exe",
+    "url": "https://www.nirsoft.net/utils/usblogview.zip",
+    "hash": "8ec630a9ed42389d73c1c82de05f0019f61baf7af81fc16de13c6643eb07fd4d",
+    "shortcuts": [["USBLogView.exe", "USBLogView"]]
+}
