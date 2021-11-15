@@ -28,7 +28,7 @@
     "shortcuts": [
         [
             "UninstallView.exe",
-            "UninstallView"
+            "NirSoft\\UninstallView"
         ]
     ]
 }

@@ -28,7 +28,7 @@
     "shortcuts": [
         [
             "shmnview.exe",
-            "ShellMenuView"
+            "NirSoft\\ShellMenuView"
         ]
     ]
 }

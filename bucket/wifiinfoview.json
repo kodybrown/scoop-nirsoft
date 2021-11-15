@@ -13,7 +13,7 @@
     "shortcuts": [
         [
             "WifiInfoView.exe",
-            "WifiInfoView"
+            "NirSoft\\WifiInfoView"
         ]
     ]
 }

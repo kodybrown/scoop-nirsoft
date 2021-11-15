@@ -28,7 +28,7 @@
     "shortcuts": [
         [
             "TaskSchedulerView.exe",
-            "TaskSchedulerView"
+            "NirSoft\\TaskSchedulerView"
         ]
     ]
 }

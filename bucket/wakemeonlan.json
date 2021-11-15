@@ -28,7 +28,7 @@
     "shortcuts": [
         [
             "WakeMeOnLan.exe",
-            "WakeMeOnLan"
+            "NirSoft\\WakeMeOnLan"
         ]
     ]
 }

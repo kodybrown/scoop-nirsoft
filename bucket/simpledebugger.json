@@ -28,7 +28,7 @@
     "shortcuts": [
         [
             "SimpleProgramDebugger.exe",
-            "SimpleProgramDebugger"
+            "NirSoft\\SimpleProgramDebugger"
         ]
     ]
 }

@@ -28,7 +28,7 @@
     "shortcuts": [
         [
             "DeviceIOView.exe",
-            "DeviceIOView"
+            "NirSoft\\DeviceIOView"
         ]
     ]
 }

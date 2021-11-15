@@ -13,7 +13,7 @@
     "shortcuts": [
         [
             "WebBrowserPassView.exe",
-            "WebBrowserPassView"
+            "NirSoft\\WebBrowserPassView"
         ]
     ]
 }

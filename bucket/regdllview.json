@@ -28,7 +28,7 @@
     "shortcuts": [
         [
             "RegDllView.exe",
-            "RegDllView"
+            "NirSoft\\RegDllView"
         ]
     ]
 }

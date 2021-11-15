@@ -13,7 +13,7 @@
     "shortcuts": [
         [
             "CountryTraceRoute.exe",
-            "CountryTraceRoute"
+            "NirSoft\\CountryTraceRoute"
         ]
     ]
 }

@@ -28,7 +28,7 @@
     "shortcuts": [
         [
             "InstalledDriversList.exe",
-            "InstalledDriversList"
+            "NirSoft\\InstalledDriversList"
         ]
     ]
 }

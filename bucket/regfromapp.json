@@ -28,7 +28,7 @@
     "shortcuts": [
         [
             "RegFromApp.exe",
-            "RegFromApp"
+            "NirSoft\\RegFromApp"
         ]
     ]
 }

@@ -28,7 +28,7 @@
     "shortcuts": [
         [
             "sysexp.exe",
-            "SysExporter"
+            "NirSoft\\SysExporter"
         ]
     ]
 }

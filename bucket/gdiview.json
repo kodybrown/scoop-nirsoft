@@ -28,7 +28,7 @@
     "shortcuts": [
         [
             "GDIView.exe",
-            "GDIView"
+            "NirSoft\\GDIView"
         ]
     ]
 }

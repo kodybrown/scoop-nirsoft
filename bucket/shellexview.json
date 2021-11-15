@@ -28,7 +28,7 @@
     "shortcuts": [
         [
             "shexview.exe",
-            "ShellExView"
+            "NirSoft\\ShellExView"
         ]
     ]
 }

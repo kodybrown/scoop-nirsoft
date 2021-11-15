@@ -28,7 +28,7 @@
     "shortcuts": [
         [
             "FirmwareTablesView.exe",
-            "FirmwareTablesView"
+            "NirSoft\\FirmwareTablesView"
         ]
     ]
 }

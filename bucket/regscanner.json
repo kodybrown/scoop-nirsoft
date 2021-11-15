@@ -28,7 +28,7 @@
     "shortcuts": [
         [
             "RegScanner.exe",
-            "RegScanner"
+            "NirSoft\\RegScanner"
         ]
     ]
 }
