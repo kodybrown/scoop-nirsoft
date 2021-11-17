@@ -28,7 +28,7 @@
     "shortcuts": [
         [
             "NetworkLatencyView.exe",
-            "NetworkLatencyView"
+            "NirSoft\\NetworkLatencyView"
         ]
     ]
 }

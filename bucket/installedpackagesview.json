@@ -28,7 +28,7 @@
     "shortcuts": [
         [
             "InstalledPackagesView.exe",
-            "InstalledPackagesView"
+            "NirSoft\\InstalledPackagesView"
         ]
     ]
 }

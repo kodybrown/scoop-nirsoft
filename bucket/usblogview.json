@@ -10,5 +10,5 @@
     "bin": "USBLogView.exe",
     "url": "https://www.nirsoft.net/utils/usblogview.zip",
     "hash": "8ec630a9ed42389d73c1c82de05f0019f61baf7af81fc16de13c6643eb07fd4d",
-    "shortcuts": [["USBLogView.exe", "USBLogView"]]
+    "shortcuts": [["USBLogView.exe", "NirSoft\\USBLogView"]]
 }

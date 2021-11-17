@@ -28,7 +28,7 @@
     "shortcuts": [
         [
             "HeapMemView.exe",
-            "HeapMemView"
+            "NirSoft\\HeapMemView"
         ]
     ]
 }

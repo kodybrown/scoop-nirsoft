@@ -28,7 +28,7 @@
     "shortcuts": [
         [
             "WhatInStartup.exe",
-            "WhatInStartup"
+            "NirSoft\\WhatInStartup"
         ]
     ]
 }

@@ -28,7 +28,7 @@
     "shortcuts": [
         [
             "DevManView.exe",
-            "DevManView"
+            "NirSoft\\DevManView"
         ]
     ]
 }

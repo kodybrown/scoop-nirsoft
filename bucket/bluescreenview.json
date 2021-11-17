@@ -28,7 +28,7 @@
     "shortcuts": [
         [
             "BlueScreenView.exe",
-            "BlueScreenView"
+            "NirSoft\\BlueScreenView"
         ]
     ]
 }

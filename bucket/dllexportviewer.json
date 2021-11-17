@@ -28,7 +28,7 @@
     "shortcuts": [
         [
             "dllexp.exe",
-            "DLL Export Viewer"
+            "NirSoft\\DLL Export Viewer"
         ]
     ]
 }

@@ -28,7 +28,7 @@
     "shortcuts": [
         [
             "ResourcesExtract.exe",
-            "ResourcesExtract"
+            "NirSoft\\ResourcesExtract"
         ]
     ]
 }

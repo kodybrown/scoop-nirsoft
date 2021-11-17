@@ -28,7 +28,7 @@
     "shortcuts": [
         [
             "SoundVolumeView.exe",
-            "SoundVolumeView"
+            "NirSoft\\SoundVolumeView"
         ]
     ]
 }
