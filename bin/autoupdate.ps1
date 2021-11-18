@@ -33,7 +33,7 @@ foreach ($PadURI in $PadURIs) {
     $JSON.Add("checkver", "$ProgramName v(\d+\.\d\d)")
     $JSON.Add("version", $Pad.XML_DIZ_INFO.Program_Info.Program_Version)
     $JSON.Add("license", $Pad.XML_DIZ_INFO.Program_Info.Program_Type.ToLower())
-    $JSON.Add("description", (($Pad.XML_DIZ_INFO.Program_Descriptions.English.Char_Desc_2000 -replace "\n", " ") -replace " +", " ").Trim())
+    $JSON.Add("description", ($Pad.XML_DIZ_INFO.Program_Descriptions.English.Char_Desc_2000 -replace "[\n\r ]+", " ").Trim())
 
     $32URI = $Pad.XML_DIZ_INFO.Web_Info.Download_URLs.Primary_Download_URL -replace "^http://", "https://"
     $64URI = $32URI -replace "\.zip$", "-x64.zip"

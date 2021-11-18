@@ -7,11 +7,11 @@
     "architecture": {
         "64bit": {
             "url": "https://www.nirsoft.net/toolsdownload/wirelesskeyview-x64.zip",
-            "hash": "fc8a4de44502bfa792f9b9338e8781dac0354ba1741482473f1b45b392086061"
+            "hash": "75039e9d4c1ae6a8e0377d99ede10fc5d9a78d4b1b6328a2ec6c6b34a198f8b4"
         },
         "32bit": {
             "url": "https://www.nirsoft.net/toolsdownload/wirelesskeyview.zip",
-            "hash": "fc8a4de44502bfa792f9b9338e8781dac0354ba1741482473f1b45b392086061"
+            "hash": "07fdb90d607d64db82f1da44b768f3f8ac9cf4b615935c9e3bfb7fd630451079"
         }
     },
     "autoupdate": {
@@ -24,10 +24,10 @@
             }
         }
     },
-    "bin": "wirelesskeyview.exe",
+    "bin": "WirelessKeyView.exe",
     "shortcuts": [
         [
-            "wirelesskeyview.exe",
+            "WirelessKeyView.exe",
             "NirSoft\\WirelessKeyView"
         ]
     ]

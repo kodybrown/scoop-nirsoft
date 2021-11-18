@@ -24,10 +24,10 @@
             }
         }
     },
-    "bin": "produkey.exe",
+    "bin": "ProduKey.exe",
     "shortcuts": [
         [
-            "produkey.exe",
+            "ProduKey.exe",
             "NirSoft\\ProduKey"
         ]
     ]

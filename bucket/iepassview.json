@@ -7,14 +7,7 @@
     "url": "https://www.nirsoft.net/toolsdownload/iepv.zip",
     "hash": "8164e8181cd85b4da180bb7671ca04eef548fdabee1696a741ebb88e09b3058f",
     "autoupdate": {
-        "architecture": {
-            "64bit": {
-                "url": "https://www.nirsoft.net/toolsdownload/iepv-x64.zip"
-            },
-            "32bit": {
-                "url": "https://www.nirsoft.net/toolsdownload/iepv.zip"
-            }
-        }
+        "url": "https://www.nirsoft.net/toolsdownload/iepv.zip"
     },
     "bin": "iepv.exe",
     "shortcuts": [

@@ -9,20 +9,10 @@
     "autoupdate": {
         "url": "https://www.nirsoft.net/toolsdownload/chromepass.zip"
     },
-    "autoupdate": {
-        "architecture": {
-            "64bit": {
-                "url": "https://www.nirsoft.net/toolsdownload/chromepass-x64.zip"
-            },
-            "32bit": {
-                "url": "https://www.nirsoft.net/toolsdownload/chromepass.zip"
-            }
-        }
-    },
-    "bin": "chromepass.exe",
+    "bin": "ChromePass.exe",
     "shortcuts": [
         [
-            "chromepass.exe",
+            "ChromePass.exe",
             "NirSoft\\ChromePass"
         ]
     ]
