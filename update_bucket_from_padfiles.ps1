@@ -69,7 +69,6 @@ ForEach ($xmlurl in $($padfiles -split "`n")) {
     #   because the built-in PowerShell Archive namespace is pretty weak.
     $exeName = "$zipName.exe"
   }
-  "  exeName = $exeName"
 
   Remove-Item $tempFile
 
