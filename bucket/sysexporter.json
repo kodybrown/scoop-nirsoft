@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/sysexp.html",
-    "checkver": "SysExporter v(\\d+\\.\\d+)",
+    "checkver": "SysExporter v(\\d+\\.\\d\\d)",
     "version": "1.77",
     "license": "freeware",
     "description": "SysExporter utility allows you to grab the data stored in standard list-views, tree-views, list boxes, and combo boxes from almost any application running on your system, and export it to text, HTML or XML file.",

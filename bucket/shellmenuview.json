@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/shell_menu_view.html",
-    "checkver": "ShellMenuView v(\\d+\\.\\d+)",
+    "checkver": "ShellMenuView v(\\d+\\.\\d\\d)",
     "version": "1.41",
     "license": "freeware",
     "description": "ShellMenuView is a small utility that display the list of static menu items that appeared in the context menu when you right-click a file/folder on Windows Explorer, and allows you to easily disable unwanted menu items.",

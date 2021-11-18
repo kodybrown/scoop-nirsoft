@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/wireless_key.html",
-    "checkver": "WirelessKeyView v(\\d+\\.\\d+)",
+    "checkver": "WirelessKeyView v(\\d+\\.\\d\\d)",
     "version": "2.22",
     "license": "freeware",
     "description": "WirelessKeyView recovers all wireless network keys (WEP/WPA) stored in your computer by the 'Wireless Zero Configuration' service of Windows XP and by the 'WLAN AutoConfig' service of Windows Vista. It allows you to easily save all keys to text/html/xml file, or copy a single key to the clipboard.",
