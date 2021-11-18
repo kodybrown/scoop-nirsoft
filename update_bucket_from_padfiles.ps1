@@ -96,7 +96,7 @@ ForEach ($xmlurl in $($padfiles -split "`n")) {
   $json.bin = "$exeName"
   $json.shortcuts = @(, @("$exeName", "NirSoft\$fullName"))
 
-  $json | ConvertTo-Json -Depth 100 | jq -M --indent 4 . | Out-File "$outpath/$outFileName.json"
+  $json | ConvertTo-Json -Depth 100 | jq -M --indent 4 . | Out-File "$outpath/$outFileName.json" -Encoding ascii
 
   # break
 }
