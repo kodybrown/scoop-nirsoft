@@ -3,7 +3,7 @@
 # and create a scoop JSON file from it.
 
 $tempFile = "./tempfile.zip"
-$outpath = "./files"
+$outpath = "./bucket"
 if (!(Test-Path -Path $outpath)) {
   mkdir $outpath | Out-Null
 }
