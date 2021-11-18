@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/drive_letter_view.html",
-    "checkver": "DriveLetterView v([\\d.]+)",
+    "checkver": "DriveLetterView v(\\d+\\.\\d\\d)",
     "version": "1.50",
     "license": "freeware",
     "description": "DriveLetterView is a simple utility that allows you to view the list of all drive letter assignments in your system, including local drives, remote network drives, CD/DVD drives, and USB drives - even if they are not currently plugged. It also allows you to easily change a drive letter of USB devices and remote network shares, as well as to delete a drive letter of USB device that is not plugged. You can also use DriveLetterView to export the list of all drives into text/csv/html/xml file.",

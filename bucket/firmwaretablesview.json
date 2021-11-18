@@ -1,9 +1,9 @@
 {
     "homepage": "https://www.nirsoft.net/utils/firmware_tables_view.html",
-    "checkver": "FirmwareTablesView v([\\d.]+)",
+    "checkver": "FirmwareTablesView v(\\d+\\.\\d\\d)",
     "version": "1.01",
     "license": "freeware",
-    "description": "FirmwareTablesView is a simple tool for Windows that displays a list of firmware tables (ACPI, SMBIOS) stored on your system. You can view the content of these tables in Hex-dump format and export them to a binary file.",
+    "description": "FirmwareTablesView is a simple tool that displays a list of firmware tables (ACPI, SMBIOS) stored on your system. You can view the content of these tables in Hex-dump format and export them to a binary file.",
     "architecture": {
         "64bit": {
             "url": "https://www.nirsoft.net/utils/firmwaretablesview-x64.zip",

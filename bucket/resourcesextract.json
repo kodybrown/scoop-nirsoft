@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/resources_extract.html",
-    "checkver": "ResourcesExtract v([\\d.]+)",
+    "checkver": "ResourcesExtract v(\\d+\\.\\d\\d)",
     "version": "1.18",
     "license": "freeware",
     "description": "ResourcesExtract is a small utility that scans dll/ocx/exe files and extract all resources (bitmaps, icons, cursors, AVI movies, HTML files, and more...) stored in them into the folder that you specify. You can use ResourcesExtract in user interface mode, or alternatively, you can run ResourcesExtract in command-line mode without displaying any user interface.",
