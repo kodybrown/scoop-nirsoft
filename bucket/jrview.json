@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/jrview.html",
-    "checkver": "JRView v(\\d+\\.\\d+)",
+    "checkver": "JRView v(\\d+\\.\\d\\d)",
     "version": "1.00",
     "license": "freeware",
     "description": "JRView is a small utility that displays the list of all Java Runtime Environments and Java Development Kits installed on your system, and allows you to run a Java application (.class or .jar file) on the desired Java environment.",

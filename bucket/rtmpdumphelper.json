@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/rtmp_dump_helper.html",
-    "checkver": "RTMPDumpHelper v(\\d+\\.\\d+)",
+    "checkver": "RTMPDumpHelper v(\\d+\\.\\d\\d)",
     "version": "1.22",
     "license": "freeware",
     "description": "RTMPDumpHelper is a small utility that can help you to easily download RTMP video/audio streams. By combining this utility and the proxy server of RTMPDump toolkit, you can simply open a Web page containing RTMP video stream in your favorite Web browser, and while watching the video, it'll be saved to your disk automatically as .flv or .mp4 file.",

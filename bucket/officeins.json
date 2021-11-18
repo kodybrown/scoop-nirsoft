@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/officeins.html",
-    "checkver": "OfficeIns v(\\d+\\.\\d+)",
+    "checkver": "OfficeIns v(\\d+\\.\\d\\d)",
     "version": "1.20",
     "license": "freeware",
     "description": "OfficeIns is a small utility that displays the details of all installed Microsoft Office add-ins on your computer, and allows you to disable/enable them.",

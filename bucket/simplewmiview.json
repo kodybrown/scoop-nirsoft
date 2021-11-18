@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/simple_wmi_view.html",
-    "checkver": "SimpleWMIView v(\\d+\\.\\d+)",
+    "checkver": "SimpleWMIView v(\\d+\\.\\d\\d)",
     "version": "1.46",
     "license": "freeware",
     "description": "SimpleWMIView is a simple tool for Windows that displays the result of WMI queries in a simple table, and allows you to easily export the data to text/csv/tab-delimited/html/xml file, or to copy the selected items to the clipboard and then paste them to Excel or other spreadsheet application. With SimpleWMIView you can get extensive information about your system, like a list of running processes, services, drivers, user accounts, hardware, and so on...",

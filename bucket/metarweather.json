@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/mweather.html",
-    "checkver": "MetarWeather v(\\d+\\.\\d+)",
+    "checkver": "MetarWeather v(\\d+\\.\\d\\d)",
     "version": "1.76",
     "license": "freeware",
     "description": "The MetarWeather utility decodes METAR weather reports from around the world, and displays them in a simple weather report table. You can save the weather report into a text or HTML files. MetarWeather can decode METAR reports from a text file, or download the latest reports directly from the Internet.",

@@ -1,33 +1,18 @@
 {
     "homepage": "https://www.nirsoft.net/utils/vnc_password.html",
-    "checkver": "VNCPassView v(\\d+\\.\\d+)",
+    "checkver": "VNCPassView v(\\d+\\.\\d\\d)",
     "version": "1.05",
     "license": "freeware",
     "description": "VNCPassView is a small utility that recover the passwords stored by the VNC tool. It can recover 2 of passwords: password stored for the current logged-on user (HKEY_CURRENT_USER in the Registry), and password stored for the all users.",
-    "architecture": {
-        "64bit": {
-            "url": "https://www.nirsoft.net/toolsdownload/vncpassview-x64.zip",
-            "hash": "fc8a4de44502bfa792f9b9338e8781dac0354ba1741482473f1b45b392086061"
-        },
-        "32bit": {
-            "url": "https://www.nirsoft.net/toolsdownload/vncpassview.zip",
-            "hash": "fc8a4de44502bfa792f9b9338e8781dac0354ba1741482473f1b45b392086061"
-        }
-    },
+    "url": "https://www.nirsoft.net/toolsdownload/vncpassview.zip",
+    "hash": "a598f49d5b6c06097550952aef7260f226227cf64a982c8fedb605f8f30039b4",
     "autoupdate": {
-        "architecture": {
-            "64bit": {
-                "url": "https://www.nirsoft.net/toolsdownload/vncpassview-x64.zip"
-            },
-            "32bit": {
-                "url": "https://www.nirsoft.net/toolsdownload/vncpassview.zip"
-            }
-        }
+        "url": "https://www.nirsoft.net/toolsdownload/vncpassview.zip"
     },
-    "bin": "vncpassview.exe",
+    "bin": "VNCPassView.exe",
     "shortcuts": [
         [
-            "vncpassview.exe",
+            "VNCPassView.exe",
             "NirSoft\\VNCPassView"
         ]
     ]

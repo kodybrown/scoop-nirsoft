@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/injected_dll.html",
-    "checkver": "InjectedDLL v(\\d+\\.\\d+)",
+    "checkver": "InjectedDLL v(\\d+\\.\\d\\d)",
     "version": "1.00",
     "license": "freeware",
     "description": "InjectedDLL is a small utility that displays the list of DLLs that are automatically injected on every process in your system.",

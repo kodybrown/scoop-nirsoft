@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/http_network_sniffer.html",
-    "checkver": "HTTPNetworkSniffer v(\\d+\\.\\d+)",
+    "checkver": "HTTPNetworkSniffer v(\\d+\\.\\d\\d)",
     "version": "1.63",
     "license": "freeware",
     "description": "HTTPNetworkSniffer is a packet sniffer tool that captures all HTTP requests/responses sent between the Web browser and the Web server and displays them in a simple table. For every HTTP request, the following information is displayed: Host Name, HTTP method (GET, POST, HEAD), URL Path, User Agent, Response Code, Response String, Content Type, Referer, Content Encoding, Transfer Encoding, Server Name, Content Length, Cookie String, and more... You can easily select one or more HTTP information lines, and then export them to text/html/xml/csv file or copy them to the clipboard and then paste them into Excel.",

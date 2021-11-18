@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/monitor_info_view.html",
-    "checkver": "MonitorInfoView v(\\d+\\.\\d+)",
+    "checkver": "MonitorInfoView v(\\d+\\.\\d\\d)",
     "version": "1.22",
     "license": "freeware",
     "description": "MonitorInfoView is a small utility that displays essential information about your monitor: manufacture week/year, monitor manufacturer, monitor model, supported display modes, and more... The information is extracted from the EDID (\"Extended display identification data\") records stored on your computer. You can also view the monitor information of multiple computers on your network, if you login to these computers with administrator rights.",

@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/ntfs_links_view.html",
-    "checkver": "NTFSLinksView v(\\d+\\.\\d+)",
+    "checkver": "NTFSLinksView v(\\d+\\.\\d\\d)",
     "version": "1.32",
     "license": "freeware",
     "description": "Starting from Windows Vista, Microsoft uses symbolic links and junction points of NTFS file system in order to make changes in the folders structure of Windows and keep the compatibility of applications written for older versions of Windows. This utility simply shows you to list of all symbolic links and junctions in the specified folder, and their target paths. It also allows you to save the symbolic links/junctions list into text/html/xml/csv file.",

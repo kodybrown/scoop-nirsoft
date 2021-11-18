@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/domain_hosting_view.html",
-    "checkver": "DomainHostingView v(\\d+\\.\\d+)",
+    "checkver": "DomainHostingView v(\\d+\\.\\d\\d)",
     "version": "1.82",
     "license": "freeware",
     "description": "DomainHostingView is a utility for Windows that collects extensive information about a domain by using a series of DNS and WHOIS queries, and generates HTML report that can be displayed in any Web browser. The information displayed by the report of DomainHostingView includes: the hosting company or data center that hosts the Web server, mail server, and domain name server (DNS) of the specified domain, the created/changed/expire date of the domain, domain owner, domain registrar that registered the domain, list of all DNS records, and more...",

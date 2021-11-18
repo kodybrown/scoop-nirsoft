@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/live_messenger_contacts.html",
-    "checkver": "LiveContactsView v(\\d+\\.\\d+)",
+    "checkver": "LiveContactsView v(\\d+\\.\\d\\d)",
     "version": "1.26",
     "license": "freeware",
     "description": "LiveContactsView is a small utility that allows you to view the details of all contacts in your Windows Live Messenger. For each contact, LiveContactsView display the following fields: Email address, nickname, quick name, first name, last name, and more. You can easily select one or more contacts and then export them into text/xml/html/csv file, or copy them into the clipboard and then paste them into Excel or to any other spreadsheet application.",

@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/gui_prop_view.html",
-    "checkver": "GUIPropView v(\\d+\\.\\d+)",
+    "checkver": "GUIPropView v(\\d+\\.\\d\\d)",
     "version": "1.16",
     "license": "freeware",
     "description": "GUIPropView displays extensive information about all windows currently opened on your system. The upper pane of GUIPropView displays all top level windows, and when you select a window in the upper pane, the lower pane displays the list of all child windows of the selected top level window. You can also select one or more windows and then do some actions on them like close, hide, show, minimize, maximize, disable, enable, and so on...",

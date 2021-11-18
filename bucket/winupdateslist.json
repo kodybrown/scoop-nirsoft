@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/wul.html",
-    "checkver": "WinUpdatesList v(\\d+\\.\\d+)",
+    "checkver": "WinUpdatesList v(\\d+\\.\\d\\d)",
     "version": "1.33",
     "license": "freeware",
     "description": "WinUpdatesList displays the list of all Windows updates (Service Packs and Hotfixes) installed on your local computer. For hotfix updates, this utility also displays the list of files updated with these hotfixes. In addition, it allows you to instantly open the Web link in Microsoft Web site that provides more information about the selected update, uninstall an update, copy the update information to the clipboard, or save it to text/HTML/XML file.",

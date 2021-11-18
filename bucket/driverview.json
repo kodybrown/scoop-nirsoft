@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/driverview.html",
-    "checkver": "DriverView v(\\d+\\.\\d+)",
+    "checkver": "DriverView v(\\d+\\.\\d\\d)",
     "version": "1.50",
     "license": "freeware",
     "description": "DriverView utility displays the list of all device drivers currently loaded on your system. For each driver in the list, additional useful information is displayed: load address of the driver, description, version, product name, company that created the driver, and more.",

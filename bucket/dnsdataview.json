@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/dns_records_viewer.html",
-    "checkver": "DNSDataView v(\\d+\\.\\d+)",
+    "checkver": "DNSDataView v(\\d+\\.\\d\\d)",
     "version": "1.61",
     "license": "freeware",
     "description": "This utility is a GUI alternative to the NSLookup tool that comes with Windows operating system. It allows you to easily retrieve the DNS records (MX, NS, A, SOA) of the specified domains. You can use the default DNS server of your Internet connection, or use any other DNS server that you specify. After retrieving the DNS records for the desired domains, you can save them into text/xml/html/csv file.",

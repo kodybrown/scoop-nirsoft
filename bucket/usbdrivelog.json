@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/usb_drive_log.html",
-    "checkver": "USBDriveLog v(\\d+\\.\\d+)",
+    "checkver": "USBDriveLog v(\\d+\\.\\d\\d)",
     "version": "1.02",
     "license": "freeware",
     "description": "USBDriveLog is a tool for Windows 10 that displays a log of all USB drives plugged to your computer. For every USB drive event, the following information is displayed: Device Model, Revision, Manufacturer, Serial Number, Plug Time, Unplug Time, Device ID, Device Capacity, and more... USBDriveLog allows you to retrieve the information from your local computer, from remote computer on your network, and from external hard drive.",

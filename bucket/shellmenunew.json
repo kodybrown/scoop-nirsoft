@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/shell_menu_new.html",
-    "checkver": "ShellMenuNew v(\\d+\\.\\d+)",
+    "checkver": "ShellMenuNew v(\\d+\\.\\d\\d)",
     "version": "1.02",
     "license": "freeware",
     "description": "ShellMenuNew is a small utility that displays the list of all menu items in the 'New' submenu of Windows Explorer. It allows you to easily disable unwanted menu items, so this 'New' submenu will display only the items that you need.",

@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/run_from_process.html",
-    "checkver": "RunFromProcess v(\\d+\\.\\d+)",
+    "checkver": "RunFromProcess v(\\d+\\.\\d\\d)",
     "version": "1.06",
     "license": "freeware",
     "description": "RunFromProcess is a command-line utility that allows you to run a program from another process that you choose. The program that you run will be executed as a child of the specified process and it'll run with the same user and security context of the specified parent process.",
@@ -9,10 +9,10 @@
     "autoupdate": {
         "url": "https://www.nirsoft.net/utils/runfromprocess.zip"
     },
-    "bin": "RunFromProcess-x64.exe RunFromProcess.exe",
+    "bin": "RunFromProcess.exe",
     "shortcuts": [
         [
-            "RunFromProcess-x64.exe RunFromProcess.exe",
+            "RunFromProcess.exe",
             "NirSoft\\RunFromProcess"
         ]
     ]

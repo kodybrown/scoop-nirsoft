@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/web_cookies_sniffer.html",
-    "checkver": "WebCookiesSniffer v(\\d+\\.\\d+)",
+    "checkver": "WebCookiesSniffer v(\\d+\\.\\d\\d)",
     "version": "1.30",
     "license": "freeware",
     "description": "WebCookiesSniffer is a packet sniffer tool that captures all Web site cookies sent between the Web browser and the Web server and displays them in a simple cookies table. The upper pane of WebCookiesSniffer displays the cookie string and the Web site/host name that sent or received this cookie. When selecting a cookie string in the upper pane, WebCookiesSniffer parses the cookie string and displays the cookies as name-value format in the lower pane.",

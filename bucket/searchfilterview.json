@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/search_filter_view.html",
-    "checkver": "SearchFilterView v(\\d+\\.\\d+)",
+    "checkver": "SearchFilterView v(\\d+\\.\\d\\d)",
     "version": "1.00",
     "license": "freeware",
     "description": "When you search the content of files with Windows search, it uses the right search IFilter plugin according to the file extension. This utility allows you to easily view the search filters installed on your system and the file extensions that are associated with them, as well as it allows you to easily add or remove file extensions for these filters.",

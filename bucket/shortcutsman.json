@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/shman.html",
-    "checkver": "ShortcutsMan v(\\d+\\.\\d+)",
+    "checkver": "ShortcutsMan v(\\d+\\.\\d\\d)",
     "version": "1.10",
     "license": "freeware",
     "description": "ShortcutsMan displays the details about all shortcuts that you have on your desktop and under your start menu. Broken shortcuts (shortcuts that point to file that doesn't exist) are automatically painted with pink color. You select one or more shortcuts, and then delete them, resolve them or save the shortcut's details to HTML/Text/XML file.",

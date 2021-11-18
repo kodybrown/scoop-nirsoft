@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/jsae.html",
-    "checkver": "JavaScript Animator Express v(\\d+\\.\\d+)",
+    "checkver": "JavaScript Animator Express v(\\d+\\.\\d\\d)",
     "version": "1.10",
     "license": "freeware",
     "description": "This utility allows you to easily create animation from image files (GIFs and JPGs) on your local drive. The animation is achieved by creating a simple HTML page with JavaScript animation, and running it on your default browser.",

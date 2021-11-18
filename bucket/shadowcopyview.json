@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/shadow_copy_view.html",
-    "checkver": "ShadowCopyView v(\\d+\\.\\d+)",
+    "checkver": "ShadowCopyView v(\\d+\\.\\d\\d)",
     "version": "1.15",
     "license": "freeware",
     "description": "ShadowCopyView is simple tool for Windows 10/8/7/Vista that lists the snapshots of your hard drive created by the 'Volume Shadow Copy' service of Windows. Every snapshot contains an older versions of your files and folders from the date that the snapshot was created, you can browse the older version of your files and folders, and optionally copy them into a folder on your disk.",

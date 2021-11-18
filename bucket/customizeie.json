@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/ctie.html",
-    "checkver": "CustomizeIE v(\\d+\\.\\d+)",
+    "checkver": "CustomizeIE v(\\d+\\.\\d\\d)",
     "version": "1.01",
     "license": "freeware",
     "description": "The CustomizeIE utility allows you to easily add, edit and delete additional toolbar buttons and menu items in Internet Explorer. (Version 5.0 and above)",

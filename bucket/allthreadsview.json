@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/all_threads_view.html",
-    "checkver": "AllThreadsView v(\\d+\\.\\d+)",
+    "checkver": "AllThreadsView v(\\d+\\.\\d\\d)",
     "version": "1.00",
     "license": "freeware",
     "description": "AllThreadsView is a simple tool for Windows that displays a list of all running threads from all processes on your system in one table. For every thread, the following information is displayed: Thread ID, Creation Time, Kernel Time, User Time, Duration, Start Address, Priority, Base Priority, Context Switch Count, Context Switch Change (Since the last refresh), Wait Reason, Process ID, Process Path.",

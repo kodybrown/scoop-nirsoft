@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/disk_smart_view.html",
-    "checkver": "DiskSmartView v(\\d+\\.\\d+)",
+    "checkver": "DiskSmartView v(\\d+\\.\\d\\d)",
     "version": "1.21",
     "license": "freeware",
     "description": "DiskSmartView is a small utility that retrieves the S.M.A.R.T information (S.M.A.R.T = Self-Monitoring, Analysis, and Reporting Technology) from IDE/SATA disks. This information includes the disk model/firmware/serial number, cylinders/heads, power-on hours (POH), internal temperature, disk errors rate, and more. You can use the S.M.A.R.T information retrieved by DiskSmartView to find out whether there is any significant problem in your disk drive.",

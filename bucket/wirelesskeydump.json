@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/wireless_key_dump.html",
-    "checkver": "WirelessKeyDump v(\\d+\\.\\d+)",
+    "checkver": "WirelessKeyDump v(\\d+\\.\\d\\d)",
     "version": "1.00",
     "license": "freeware",
     "description": "WirelessKeyDump is a console application (Command Prompt) that dumps the list of all wireless keys stored by the wireless networks module of Windows operating system.",

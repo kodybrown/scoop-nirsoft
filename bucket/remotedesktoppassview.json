@@ -1,28 +1,13 @@
 {
     "homepage": "https://www.nirsoft.net/utils/remote_desktop_password.html",
-    "checkver": "Remote Desktop PassView v(\\d+\\.\\d+)",
+    "checkver": "Remote Desktop PassView v(\\d+\\.\\d\\d)",
     "version": "1.01",
     "license": "freeware",
     "description": "Remote Desktop PassView is a small utility that reveals the password stored by Microsoft Remote Desktop Connection utility inside the .rdp files.",
-    "architecture": {
-        "64bit": {
-            "url": "https://www.nirsoft.net/toolsdownload/rdpv-x64.zip",
-            "hash": "fc8a4de44502bfa792f9b9338e8781dac0354ba1741482473f1b45b392086061"
-        },
-        "32bit": {
-            "url": "https://www.nirsoft.net/toolsdownload/rdpv.zip",
-            "hash": "fc8a4de44502bfa792f9b9338e8781dac0354ba1741482473f1b45b392086061"
-        }
-    },
+    "url": "https://www.nirsoft.net/toolsdownload/rdpv.zip",
+    "hash": "528de69797c36423a1e6b64fa8b1825f354e6707f2ca3760d81a9f58d69d58bb",
     "autoupdate": {
-        "architecture": {
-            "64bit": {
-                "url": "https://www.nirsoft.net/toolsdownload/rdpv-x64.zip"
-            },
-            "32bit": {
-                "url": "https://www.nirsoft.net/toolsdownload/rdpv.zip"
-            }
-        }
+        "url": "https://www.nirsoft.net/toolsdownload/rdpv.zip"
     },
     "bin": "rdpv.exe",
     "shortcuts": [

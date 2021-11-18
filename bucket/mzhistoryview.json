@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/mozilla_history_view.html",
-    "checkver": "MZHistoryView v(\\d+\\.\\d+)",
+    "checkver": "MZHistoryView v(\\d+\\.\\d\\d)",
     "version": "1.70",
     "license": "freeware",
     "description": "MozillaHistoryView is a small utility that reads the history data file (history.dat) of Firefox/Mozilla/Netscape Web browsers, and displays the list of all visited Web pages in the last days. For each visited Web page, the following information is displayed: URL, First visit date, Last visit date, Visit counter, Referrer, Title, and Host name. You can also easily export the history data to text/HTML/Xml file.",
