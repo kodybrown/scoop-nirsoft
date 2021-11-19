@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/alternate_stream_dump.html",
-    "checkver": "AltStreamDump v(\\d+\\.\\d+)",
+    "checkver": "AltStreamDump v(\\d+\\.\\d\\d)",
     "version": "1.05",
     "license": "freeware",
     "description": "AltStreamDump is a console application (Command Prompt) that dumps the list of NTFS alternate streams found in the current directory. By using a few command-line options, you can also instruct AltStreamDump to displays the alternate streams list of other folders and to scan subfolders in the desired folder depth.",

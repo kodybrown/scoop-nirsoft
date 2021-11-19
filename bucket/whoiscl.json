@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/whoiscl.html",
-    "checkver": "WhoisCL v(\\d+\\.\\d+)",
+    "checkver": "WhoisCL v(\\d+\\.\\d\\d)",
     "version": "1.90",
     "license": "freeware",
     "description": "WhoisCL is a simple command-line utility that allows you to easily get information about a registered domain. It automatically connect to the right WHOIS server, according to the top-level domain name, and retrieve the WHOIS record of the domain. It supports both generic domains and country code domains.",

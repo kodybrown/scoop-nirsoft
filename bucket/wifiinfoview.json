@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/wifi_information_view.html",
-    "checkver": "WifiInfoView v(\\d+\\.\\d+)",
+    "checkver": "WifiInfoView v(\\d+\\.\\d\\d)",
     "version": "2.71",
     "license": "freeware",
     "description": "WifiInfoView scans the wireless networks in your area and displays extensive information about them, including: Network Name (SSID), MAC Address, PHY Type (802.11g or 802.11n), RSSI, Signal Quality, Frequency, Channel Number, Maximum Speed, Company Name, Router Model and Router Name (Only for routers that provides this information), and more... When you select a wireless network in the upper pane of this tool, the lower pane displays the Wi-Fi information elements received from this device, in hexadecimal format. WifiInfoView also has a summary mode, which displays a summary of all detected wireless networks, grouped by channel number, company that manufactured the router, PHY type, or the maximum speed.",

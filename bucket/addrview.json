@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/addrview.html",
-    "checkver": "AddrView v(\\d+\\.\\d+)",
+    "checkver": "AddrView v(\\d+\\.\\d\\d)",
     "version": "1.01",
     "license": "freeware",
     "description": "AddrView allows you to parse HTML pages and extract most URL addresses stored in them. AddrView extracts URLs of images (<img> tag), links to other files (<a> tag), CSS files, frames, Flash files, and more. You can save the extracted addresses list to text, HTML or XML files, or add these addresses to your Favorities.",

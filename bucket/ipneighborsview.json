@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/ip_neighbor_table_view.html",
-    "checkver": "IPNeighborsView v(\\d+\\.\\d+)",
+    "checkver": "IPNeighborsView v(\\d+\\.\\d\\d)",
     "version": "1.00",
     "license": "freeware",
     "description": "IPNeighborsView is a tool for Windows 10/8/7/Vista that displays the IP neighbor table of your local computer. For every IP neighbor entry, the following information is displayed: IP Address, MAC Address, MAC Address Company, State, State Time, Local Adapter Name, Local Connection Name.",

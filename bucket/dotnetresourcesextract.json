@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/dot_net_resources_extract.html",
-    "checkver": "DotNetResourcesExtract v(\\d+\\.\\d+)",
+    "checkver": "DotNetResourcesExtract v(\\d+\\.\\d\\d)",
     "version": "1.01",
     "license": "freeware",
     "description": "DotNetResourcesExtract is a small utility that scan dll/exe files of .NET applications, and extract all .NET embedded resources (Bitmaps, Gifs, HTML files, and so on) stored in them into the folder that you specify.",

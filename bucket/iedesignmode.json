@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/ie_design_mode.html",
-    "checkver": "IEDesignMode v(\\d+\\.\\d+)",
+    "checkver": "IEDesignMode v(\\d+\\.\\d\\d)",
     "version": "1.00",
     "license": "freeware",
     "description": "IEDesignMode Adds a new menu item into the context menu of Internet Explorer that allows you to easily switch the active Internet Explorer window to design mode. When a Web page in in design mode, you can change the location of images and other objects, change the current text, paste a new text into the Web page, and so on. After you made your changes, you can easily switch back to non-design mode and/or save the modified Web page to HTML file.",

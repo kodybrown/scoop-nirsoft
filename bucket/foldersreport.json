@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/folrep.html",
-    "checkver": "FoldersReport v(\\d+\\.\\d+)",
+    "checkver": "FoldersReport v(\\d+\\.\\d\\d)",
     "version": "1.21",
     "license": "freeware",
     "description": "The FoldersReport utility scans a drive or a base folder that you select, and displays essential information for each folder that it finds: The size of all files inside the folder, The real files size on the disk, number of files inside the folder, number of hidden files, number of compressed files, and number of subfolders. You can use this utility to easily find out which folders use the most space in your drive. You can scan the folders of your local drives, CD-ROM drives, and network resources on a remote computer.",

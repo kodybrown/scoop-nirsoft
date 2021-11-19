@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/loaded_dll_view.html",
-    "checkver": "LoadedDllsView v(\\d+\\.\\d+)",
+    "checkver": "LoadedDllsView v(\\d+\\.\\d\\d)",
     "version": "1.01",
     "license": "freeware",
     "description": "LoadedDllsView is a simple tool for Windows that scans all running processes on your system and displays the list of all DLL files loaded by these processes and the number of processes that load each DLL in the list. When selecting a DLL file in the upper pane of LoadedDllsView, the lower pane displays the list of all processes that use the selected DLL file. You can also select one or more DLL files and then export the list into comma-delimited/tab-delimited/html/xml file.",

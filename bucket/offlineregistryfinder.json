@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/offline_registry_finder.html",
-    "checkver": "OfflineRegistryFinder v(\\d+\\.\\d+)",
+    "checkver": "OfflineRegistryFinder v(\\d+\\.\\d\\d)",
     "version": "1.11",
     "license": "freeware",
     "description": "OfflineRegistryFinder is a tool for Windows that allows you to scan Registry files from external drive and find the desired Registry keys/values/data according to the search criteria you define. After OfflineRegistryFinder displays the search result, you can easily select one or more items and then export them into a .reg file that can be used to import in the RegEdit tool of Windows. OfflineRegistryFinder can also be used for Registry scan of your running operating system. You simply have to create a Registry snapshot, and then scan this snapshot with OfflineRegistryFinder. Searching in a Registry snapshot is usually much faster then searching in the Registry of running system.",

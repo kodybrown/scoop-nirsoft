@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/wireless_network_view.html",
-    "checkver": "WirelessNetView v(\\d+\\.\\d+)",
+    "checkver": "WirelessNetView v(\\d+\\.\\d\\d)",
     "version": "1.75",
     "license": "freeware",
     "description": "WirelessNetView is a small utility that runs in the background, and monitor the activity of wireless networks around you. For each detected network, it displays the following information: SSID, Last Signal Quality, Average Signal Quality, Detection Counter, Authentication Algorithm, Cipher Algorithm, and more.",

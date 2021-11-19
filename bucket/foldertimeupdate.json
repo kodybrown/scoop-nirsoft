@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/folder_time_update.html",
-    "checkver": "FolderTimeUpdate v(\\d+\\.\\d+)",
+    "checkver": "FolderTimeUpdate v(\\d+\\.\\d\\d)",
     "version": "1.55",
     "license": "freeware",
     "description": "FolderTimeUpdate is a simple tool for Windows that scans all files and folders under the base folder you choose, and updates the 'Modified Time' of every folder according the latest modified time of the files stored in it. This tool might be useful if, for example, you backup a cluster of folders and then restore them into another disk, but the backup program doesn't restore the original modified time of the folders.",

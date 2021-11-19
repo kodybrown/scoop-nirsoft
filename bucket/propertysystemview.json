@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/windows_property_system_view.html",
-    "checkver": "PropertySystemView v(\\d+\\.\\d+)",
+    "checkver": "PropertySystemView v(\\d+\\.\\d\\d)",
     "version": "1.18",
     "license": "freeware",
     "description": "PropertySystemView is a tool that allows you view and modify the properties of file from GUI and command-line, using the property system of Windows operating system. For example, you can change the 'Media Created' timestamp stored in .mp4 files (System.Media.DateEncoded) as well as other metadata stored in media files and office documents, like Title, Comments, Authors, Tags, Date Acquired, Last Saved Date, Content Created Date, Date Imported, Date Taken (EXIF of .jpg files), and more... PropertySystemView also allows you to set properties of Windows. For example, you can set the System.AppUserModel.ID property of a window in order to disable the taskbar grouping of the specified window.",

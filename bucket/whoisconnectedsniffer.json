@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/who_is_connected_sniffer.html",
-    "checkver": "WhoIsConnectedSniffer v(\\d+\\.\\d+)",
+    "checkver": "WhoIsConnectedSniffer v(\\d+\\.\\d\\d)",
     "version": "1.26",
     "license": "freeware",
     "description": "WhoIsConnectedSniffer is a network discovery tool that listens to network packets on your network adapter using a capture driver (WinpCap or MS network monitor) and accumulates a list of computer and devices currently connected to your network. WhoIsConnectedSniffer uses various protocols to detect the computers connected to your network, including ARP, UDP, DHCP, mDNS, and BROWSER. For every detected computer or device, the following information is displayed: (Some of the fields might be empty if the information cannot be found inside the packets) IP Address, MAC Address, name of the device/computer, description, Operating System, Network Adapter Company, IPv6 Address. After collecting the connected computers/devices information, you can easily export the list to tab-delimited/comma-delimited/xml/html file.",

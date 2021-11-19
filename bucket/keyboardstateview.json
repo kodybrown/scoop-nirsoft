@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/keyboard_state_view.html",
-    "checkver": "KeyboardStateView v(\\d+\\.\\d+)",
+    "checkver": "KeyboardStateView v(\\d+\\.\\d\\d)",
     "version": "1.00",
     "license": "freeware",
     "description": "KeyboardStateView is a simple tool for Windows that displays the current state and virtual key code of every key you press. It also allows you to view the current state of all keyboard keys. For every key, the following information is displayed: Key Name (VK_XXXX ), Description, Key Code (Decimal), Key Code (Hexadecimal), Key Pressed Status, Key Toggled Status (Useful for Num Lock, Caps Lock), and last time that the key was pressed.",

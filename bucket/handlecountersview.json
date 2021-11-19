@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/handle_counters_view.html",
-    "checkver": "HandleCountersView v(\\d+\\.\\d+)",
+    "checkver": "HandleCountersView v(\\d+\\.\\d\\d)",
     "version": "1.15",
     "license": "freeware",
     "description": "HandleCountersView is a simple tool for Windows that shows the current number of handles (File, Directory, Token, Job, Thread, and so on...) opened by every process running on your system and the change in number of handles since the last time that you reset the counters.",

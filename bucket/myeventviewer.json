@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/my_event_viewer.html",
-    "checkver": "MyEventViewer v(\\d+\\.\\d+)",
+    "checkver": "MyEventViewer v(\\d+\\.\\d\\d)",
     "version": "2.25",
     "license": "freeware",
     "description": "MyEventViewer is a simple alternative to the standard event viewer of Windows. As oppose to Windows event viewer, MyEventViewer allows you to watch multiple event logs in one list, as well as the event description and data are displayed in the main window, instead of opening a new one. Also, with MyEventViewer you can easily select multiple event items and then save them to HTML/Text/XML file, or copy them to the clipboard (Ctrl+C) and then paste them into Excel.",

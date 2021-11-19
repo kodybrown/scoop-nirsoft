@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/wifi_hotspot_starter.html",
-    "checkver": "HostedNetworkStarter v(\\d+\\.\\d+)",
+    "checkver": "HostedNetworkStarter v(\\d+\\.\\d\\d)",
     "version": "1.15",
     "license": "freeware",
     "description": "HostedNetworkStarter is a simple tool for Windows 7 and later that allows you to easily create a wifi hotspot with your wireless network adapter, using the Wifi hosted network feature of Windows operating system. With the wifi hotspot created by this tool, you can allow any device with wifi support to access the network and the Internet connection available in your computer.",

@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/netbios_scanner.html",
-    "checkver": "NetBScanner v(\\d+\\.\\d+)",
+    "checkver": "NetBScanner v(\\d+\\.\\d\\d)",
     "version": "1.11",
     "license": "freeware",
     "description": "NetBScanner is a network scanner tool that scans all computers in the IP addresses range you choose, using NetBIOS protocol. For every computer located by this NetBIOS scanner, the following information is displayed: IP Address, Computer Name, Workgroup or Domain, MAC Address, and the company that manufactured the network adapter (determined according to the MAC address). NetBScanner also shows whether a computer is a Master Browser. You can easily select one or more computers found by NetBScanner, and then export the list into csv/tab-delimited/xml/html file.",

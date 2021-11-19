@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/acm.html",
-    "checkver": "ActiveX Compatibility Manager v(\\d+\\.\\d+)",
+    "checkver": "ActiveX Compatibility Manager v(\\d+\\.\\d\\d)",
     "version": "1.00",
     "license": "freeware",
     "description": "This utility allows you to easily disable/enable ActiveX components on Internet Explorer browser. It disables the desired ActiveX component by setting the \"kill bit\" of the desired CLSID under the following Registry key: HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Internet Explorer\\ActiveX Compatibility",

@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/folder_changes_view.html",
-    "checkver": "FolderChangesView v(\\d+\\.\\d+)",
+    "checkver": "FolderChangesView v(\\d+\\.\\d\\d)",
     "version": "2.32",
     "license": "freeware",
     "description": "FolderChangesView is a simple tool that monitors the folder or disk drive that you choose and lists every filename that is being modified, created, or deleted while the folder is being monitored. You can use FolderChangesView with any local disk drive or with a remote network share, as long as you have read permission to the selected folder.",

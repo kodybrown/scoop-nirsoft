@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/mzcv.html",
-    "checkver": "MZCookiesView v(\\d+\\.\\d+)",
+    "checkver": "MZCookiesView v(\\d+\\.\\d\\d)",
     "version": "1.58",
     "license": "freeware",
     "description": "MozillaCookiesView is an alternative to the standard 'Cookie Manager' provided by Netscape and Mozilla browsers. It displays the details of all cookies stored inside the cookies file (cookies.txt) in one table, and allows you to save the cookies list into text, HTML or XML file, delete unwanted cookies, and backup/restore the cookies file.",

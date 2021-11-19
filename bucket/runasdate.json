@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/run_as_date.html",
-    "checkver": "RunAsDate v(\\d+\\.\\d+)",
+    "checkver": "RunAsDate v(\\d+\\.\\d\\d)",
     "version": "1.37",
     "license": "freeware",
     "description": "RunAsDate is a small utility that allows you to run a program in the date and time that you specify. This utility doesn't change the current system date and time of your computer, but it only injects the date/time that you specify into the desired application. You can run multiple applications simultaneously, each application works with different date and time, while the real date/time of your system continues to run normally.",

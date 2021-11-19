@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/installed_packages_view.html",
-    "checkver": "InstalledPackagesView v(\\d+\\.\\d+)",
+    "checkver": "InstalledPackagesView v(\\d+\\.\\d\\d)",
     "version": "1.05",
     "license": "freeware",
     "description": "InstalledPackagesView is a tool for Windows that displays the list of all software packages installed on your system with Windows Installer, and lists the files, Registry keys, and .NET Assemblies associated with them. For every installed software, the following information is displayed: Display Name, Display Version, Install Date, Registry Time, Estimated Size, Install Location, Install Source, MSI Filename (In C:\\Windows\\Installer), and more... You can watch the installed software packages information from your local system or from another system on external hard-drive.",

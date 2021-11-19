@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/skype_log_view.html",
-    "checkver": "SkypeLogView v(\\d+\\.\\d+)",
+    "checkver": "SkypeLogView v(\\d+\\.\\d\\d)",
     "version": "1.55",
     "license": "freeware",
     "description": "SkypeLogView reads the log files created by Skype application, and displays the details of incoming/outgoing calls, chat messages, and file transfers made by the specified Skype account. You can select one or more items from the logs list, and then copy them to the clipboard, or export them into text/html/csv/xml file.",

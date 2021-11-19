@@ -1,33 +1,18 @@
 {
     "homepage": "https://www.nirsoft.net/utils/chromepass.html",
-    "checkver": "ChromePass v(\\d+\\.\\d+)",
+    "checkver": "ChromePass v(\\d+\\.\\d\\d)",
     "version": "1.55",
     "license": "freeware",
     "description": "ChromePass is a small password recovery tool that allows you to view the user names and passwords stored by Google Chrome Web browser. For each password entry, the following information is displayed: Origin URL, Action URL, User Name Field, Password Field, User Name, Password, and Created Time. You can select one or more items and then save them into text/html/xml file or copy them to the clipboard.",
-    "architecture": {
-        "64bit": {
-            "url": "https://www.nirsoft.net/toolsdownload/chromepass-x64.zip",
-            "hash": "fc8a4de44502bfa792f9b9338e8781dac0354ba1741482473f1b45b392086061"
-        },
-        "32bit": {
-            "url": "https://www.nirsoft.net/toolsdownload/chromepass.zip",
-            "hash": "fc8a4de44502bfa792f9b9338e8781dac0354ba1741482473f1b45b392086061"
-        }
-    },
+    "url": "https://www.nirsoft.net/toolsdownload/chromepass.zip",
+    "hash": "ef89091fb0705969f78540c6877a39872e0584d46509a61a0eaac06a89985c53",
     "autoupdate": {
-        "architecture": {
-            "64bit": {
-                "url": "https://www.nirsoft.net/toolsdownload/chromepass-x64.zip"
-            },
-            "32bit": {
-                "url": "https://www.nirsoft.net/toolsdownload/chromepass.zip"
-            }
-        }
+        "url": "https://www.nirsoft.net/toolsdownload/chromepass.zip"
     },
-    "bin": "chromepass.exe",
+    "bin": "ChromePass.exe",
     "shortcuts": [
         [
-            "chromepass.exe",
+            "ChromePass.exe",
             "NirSoft\\ChromePass"
         ]
     ]

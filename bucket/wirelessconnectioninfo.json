@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/wireless_connection_information.html",
-    "checkver": "WirelessConnectionInfo v(\\d+\\.\\d+)",
+    "checkver": "WirelessConnectionInfo v(\\d+\\.\\d\\d)",
     "version": "1.16",
     "license": "freeware",
     "description": "WirelessConnectionInfo is a simple tool for Windows Vista/7/8/2008 that displays general information and statistics about the active wifi connection, including the SSID, BSSID, PHY Type, Signal Quality, Receiving rate, Transmission Rate, Authentication Algorithm, Channel Number, Total number of transmitted/received frames, and more...",

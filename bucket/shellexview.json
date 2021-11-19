@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/shexview.html",
-    "checkver": "ShellExView v(\\d+\\.\\d+)",
+    "checkver": "ShellExView v(\\d+\\.\\d\\d)",
     "version": "2.01",
     "license": "freeware",
     "description": "Shell Extensions are in-process COM objects which extend the abilities of Windows operating system. Most shell extensions are automatically installed by the operating system, but there are also many other applications that install additional shell extension components. For example: If you install WinZip on your computer, you'll see a special WinZip menu when you right-click on a Zip file. This menu is created by adding a shell extension to the system. The ShellExView utility displays the details of shell extensions installed on your computer, and allows you to easily disable and enable each shell extension.",

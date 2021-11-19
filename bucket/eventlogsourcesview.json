@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/event_log_sources_view.html",
-    "checkver": "EventLogSourcesView v(\\d+\\.\\d+)",
+    "checkver": "EventLogSourcesView v(\\d+\\.\\d\\d)",
     "version": "1.00",
     "license": "freeware",
     "description": "EventLogSourcesView is a simple tool that displays the list of all event log sources installed on your system. For every event log source, the following information is displayed: Event Source Name, Event Type, DLL/EXE Files containing the event message strings, Registry Modified Time, and version information taken from the DLL/EXE file (Product Name, Company, File Description, File Version)",

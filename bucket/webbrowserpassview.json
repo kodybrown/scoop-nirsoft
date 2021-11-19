@@ -1,33 +1,18 @@
 {
     "homepage": "https://www.nirsoft.net/utils/web_browser_password.html",
-    "checkver": "WebBrowserPassView v(\\d+\\.\\d+)",
+    "checkver": "WebBrowserPassView v(\\d+\\.\\d\\d)",
     "version": "2.11",
     "license": "freeware",
     "description": "WebBrowserPassView is a password recovery tool that reveals the passwords stored by the following Web browsers: Internet Explorer (Version 4.0 - 8.0), Mozilla Firefox (All Versions), Google Chrome, and Opera. This tool can be used to recover your lost/forgotten password of any Website, including popular Web sites, like Facebook, Yahoo, Google, and GMail, as long as the password is stored by your Web Browser. After retrieving your lost passwords, you can save them into text/html/csv/xml file, by using the 'Save Selected Items' option (Ctrl+S).",
-    "architecture": {
-        "64bit": {
-            "url": "https://www.nirsoft.net/toolsdownload/webbrowserpassview-x64.zip",
-            "hash": "fc8a4de44502bfa792f9b9338e8781dac0354ba1741482473f1b45b392086061"
-        },
-        "32bit": {
-            "url": "https://www.nirsoft.net/toolsdownload/webbrowserpassview.zip",
-            "hash": "fc8a4de44502bfa792f9b9338e8781dac0354ba1741482473f1b45b392086061"
-        }
-    },
+    "url": "https://www.nirsoft.net/toolsdownload/webbrowserpassview.zip",
+    "hash": "3b7c7ff46716908d825e7303dd920a75b30af8f1d106a154c714473563191c0b",
     "autoupdate": {
-        "architecture": {
-            "64bit": {
-                "url": "https://www.nirsoft.net/toolsdownload/webbrowserpassview-x64.zip"
-            },
-            "32bit": {
-                "url": "https://www.nirsoft.net/toolsdownload/webbrowserpassview.zip"
-            }
-        }
+        "url": "https://www.nirsoft.net/toolsdownload/webbrowserpassview.zip"
     },
-    "bin": "webbrowserpassview.exe",
+    "bin": "WebBrowserPassView.exe",
     "shortcuts": [
         [
-            "webbrowserpassview.exe",
+            "WebBrowserPassView.exe",
             "NirSoft\\WebBrowserPassView"
         ]
     ]

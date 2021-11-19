@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/hot_keys_list.html",
-    "checkver": "HotKeysList v(\\d+\\.\\d+)",
+    "checkver": "HotKeysList v(\\d+\\.\\d\\d)",
     "version": "1.05",
     "license": "freeware",
     "description": "HotKeysList is a simple tool for Windows that displays the list of hot keys that are currently registered on your system. You can use this tool to easily determine which hot keys on your system are available to use.",

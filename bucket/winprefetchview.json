@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/win_prefetch_view.html",
-    "checkver": "WinPrefetchView v(\\d+\\.\\d+)",
+    "checkver": "WinPrefetchView v(\\d+\\.\\d\\d)",
     "version": "1.37",
     "license": "freeware",
     "description": "Each time that you run an application in your system, a Prefetch file which contains information about the files loaded by the application is created by Windows operating system. The information in the Prefetch file is used for optimizing the loading time of the application in the next time that you run it. WinPrefetchView is a small utility that reads the Prefetch files stored in your system and display the information stored in them. By looking in these files, you can learn which files every application is using, and which files are loaded on Windows boot.",

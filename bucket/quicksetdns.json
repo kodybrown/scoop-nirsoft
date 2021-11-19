@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/quick_set_dns.html",
-    "checkver": "QuickSetDNS v(\\d+\\.\\d+)",
+    "checkver": "QuickSetDNS v(\\d+\\.\\d\\d)",
     "version": "1.31",
     "license": "freeware",
     "description": "QuickSetDNS is a simple tool that allows you to easily change the DNS servers that are used for your Internet connection. You can set the desired DNS servers from the user interface, by choosing from a list of DNS servers that you defined, or from command-line, without displaying any user interface.",

@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/mmc_snapins_view.html",
-    "checkver": "MMCSnapInsView v(\\d+\\.\\d+)",
+    "checkver": "MMCSnapInsView v(\\d+\\.\\d\\d)",
     "version": "1.00",
     "license": "freeware",
     "description": "MMCSnapInsView is a simple tool for Windows that displays the details of all MMC snap-ins installed on your system, including name, description, CLSID, dll file, product name, company name, file version, and more... You can also select multiple MMC snap-ins and then open them in MMC application.",

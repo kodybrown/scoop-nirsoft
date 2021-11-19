@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/sound_volume_command_line.html",
-    "checkver": "SoundVolumeCommandLine v(\\d+\\.\\d+)",
+    "checkver": "SoundVolumeCommandLine v(\\d+\\.\\d\\d)",
     "version": "1.00",
     "license": "freeware",
     "description": "SoundVolumeCommandLine (svcl.exe) is a console application that allows you to do many actions related to sound volume from command-line, including - set sound volume of devices and applications, mute/unmute devices and applications, increase/decrease volume of devices and applications, set the volume level of specific channel, set the default render/capture device, get the current sound volume level of specific device, and more...",

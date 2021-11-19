@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.nirsoft.net/utils/installed_drivers_list.html",
-    "checkver": "InstalledDriversList v(\\d+\\.\\d+)",
+    "checkver": "InstalledDriversList v(\\d+\\.\\d\\d)",
     "version": "1.05",
     "license": "freeware",
     "description": "InstalledDriversList is a simple tool for Windows that lists all device drivers that are currently installed on your system. For every device driver, the following information is displayed: Driver Name, Display Name, Description, Startup Type, Driver type, Driver Group, Filename, File Size, Modified/Created Time of the driver file, and version information of the driver file. If the driver is currently running on Windows kernel, the following information is also displayed: Base Memory Address, End Address, Memory Size, and Load Count.",
