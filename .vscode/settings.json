@@ -17,6 +17,7 @@
         }
     ],
     "files.exclude": {
+        "**/bin/": false,
         "**/.git": true,
         "**/.svn": true,
         "**/.hg": true,
