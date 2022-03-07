@@ -1,5 +1,4 @@
-scoop-nirsoft
-=============
+# scoop-nirsoft
 
 A [Scoop](http://scoop.sh) bucket of useful [NirSoft](https://www.nirsoft.net/) utilities.
 
