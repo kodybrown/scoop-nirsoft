@@ -27,6 +27,12 @@ foreach ($PadURI in $PadURIs) {
     [xml]$Pad = (Invoke-WebRequest -Uri $PadURI -UseBasicParsing).Content
 
     $ProgramName = $Pad.XML_DIZ_INFO.Program_Info.Program_Name.Trim()
+    $ShortDescription = (($Pad.XML_DIZ_INFO.Program_Descriptions.English.Char_Desc_45 -replace "[\n\r ]+", " ") -replace '["\*/:<>\?\\\|]+', "_").Trim().TrimEnd(".")
+    if ($ShortDescription -eq "") {
+        $LinkName = "NirSoft\$ProgramName"
+    } else {
+        $LinkName = "NirSoft\$ProgramName - $ShortDescription"
+    }
 
     $JSON = [ordered]@{}
     $JSON.Add("homepage", ($Pad.XML_DIZ_INFO.Web_Info.Application_URLs.Application_Info_URL -replace "^http://", "https://"))
@@ -116,7 +122,7 @@ foreach ($PadURI in $PadURIs) {
     $JSON.Add("shortcuts", @(,
         @(
             $Executable,
-            "NirSoft\$ProgramName"
+            $LinkName
         )
     ))
 
