@@ -28,7 +28,7 @@
     "shortcuts": [
         [
             "FileAccessErrorView.exe",
-            "NirSoft\\FileAccessErrorView"
+            "NirSoft\\FileAccessErrorView - Displays file access error information"
         ]
     ]
 }

@@ -28,7 +28,7 @@
     "shortcuts": [
         [
             "FolderTimeUpdate.exe",
-            "NirSoft\\FolderTimeUpdate"
+            "NirSoft\\FolderTimeUpdate - Updates the 'Modified Time' of folders"
         ]
     ]
 }

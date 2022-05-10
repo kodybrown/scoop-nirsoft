@@ -28,7 +28,7 @@
     "shortcuts": [
         [
             "FileActivityWatch.exe",
-            "NirSoft\\FileActivityWatch"
+            "NirSoft\\FileActivityWatch - Displays read_write_delete operations"
         ]
     ]
 }

@@ -28,7 +28,7 @@
     "shortcuts": [
         [
             "SimpleWMIView.exe",
-            "NirSoft\\SimpleWMIView"
+            "NirSoft\\SimpleWMIView - Displays result of WMI queries in a table"
         ]
     ]
 }

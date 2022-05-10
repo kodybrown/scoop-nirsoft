@@ -28,7 +28,7 @@
     "shortcuts": [
         [
             "AppReadWriteCounter.exe",
-            "NirSoft\\AppReadWriteCounter"
+            "NirSoft\\AppReadWriteCounter - Displays read_write operations of apps"
         ]
     ]
 }

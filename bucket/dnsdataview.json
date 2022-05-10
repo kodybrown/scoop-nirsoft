@@ -13,7 +13,7 @@
     "shortcuts": [
         [
             "DNSDataView.exe",
-            "NirSoft\\DNSDataView"
+            "NirSoft\\DNSDataView - Retrieve the DNS records of your domains"
         ]
     ]
 }

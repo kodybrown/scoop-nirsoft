@@ -28,7 +28,7 @@
     "shortcuts": [
         [
             "AppNetworkCounter.exe",
-            "NirSoft\\AppNetworkCounter"
+            "NirSoft\\AppNetworkCounter - Displays sent_received bytes of every app"
         ]
     ]
 }

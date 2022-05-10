@@ -28,7 +28,7 @@
     "shortcuts": [
         [
             "svcl.exe",
-            "NirSoft\\SoundVolumeCommandLine"
+            "NirSoft\\SoundVolumeCommandLine - Sound volume command-line tool for Windows"
         ]
     ]
 }

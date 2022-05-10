@@ -40,7 +40,7 @@
     "shortcuts": [
         [
             "USBDeview.exe",
-            "NirSoft\\USBDeview"
+            "NirSoft\\USBDeview - Lists all installed USB devices"
         ]
     ]
 }

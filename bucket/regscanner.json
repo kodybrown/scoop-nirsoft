@@ -28,7 +28,7 @@
     "shortcuts": [
         [
             "RegScanner.exe",
-            "NirSoft\\RegScanner"
+            "NirSoft\\RegScanner - Scan and find values in the Registry"
         ]
     ]
 }
