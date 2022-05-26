@@ -1,17 +1,17 @@
 {
     "homepage": "https://www.nirsoft.net/utils/csv_file_view.html",
     "checkver": "CSVFileView v(\\d+\\.\\d\\d)",
-    "version": "2.56",
+    "version": "2.57",
     "license": "freeware",
     "description": "CSVFileView is a simple CSV file viewer/converter utility that allows you to easily view the content of CSV or tab-delimited file created by NirSoft utilities or by any other software, in a simple table viewer. You can sort the lines according to one of the fields, remove unwanted fields and change their order, and then save the result back into CSV file, tab-delimited file, XML file, or HTML report.",
     "architecture": {
         "64bit": {
             "url": "https://www.nirsoft.net/utils/csvfileview-x64.zip",
-            "hash": "9b41ce6496f7efadda9e2aeed6954767ac4c9cce41de78b430d3aa09afffc3e6"
+            "hash": "e2dacd5d671fb5be00bc7d7f1a0ce43efcff945376c98bce5e11d818918168d1"
         },
         "32bit": {
             "url": "https://www.nirsoft.net/utils/csvfileview.zip",
-            "hash": "a4d4bef45d5691f89231874c643b6fef9b009d44f313a8950bbb2cfb98db49d2"
+            "hash": "737ca6a397c07d57cbb0aeb64551d3e1abd12c3c30a5daae27a9cff8a6d01acb"
         }
     },
     "autoupdate": {
