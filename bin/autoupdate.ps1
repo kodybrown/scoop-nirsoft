@@ -21,6 +21,9 @@ $PadURIs.Remove("http://www.nirsoft.net/pad/systools.xml")
 $PadURIs.Remove("http://www.nirsoft.net/pad/videoaudiotools.xml")
 # The following are obsolete.
 $PadURIs.Remove("http://www.nirsoft.net/pad/astlog.xml")
+# The following have passwords and need to be updated manually.
+$PadURIs.Remove("http://www.nirsoft.net/pad/chromepass.xml")
+$PadURIs.Remove("http://www.nirsoft.net/pad/wirelesskeyview.xml")
 
 foreach ($PadURI in $PadURIs) {
     Write-Output "Parsing $PadURI..."
