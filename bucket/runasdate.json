@@ -28,7 +28,7 @@
     "shortcuts": [
         [
             "RunAsDate.exe",
-            "NirSoft\\RunAsDate"
+            "NirSoft\\RunAsDate - Run a program with the specified date"
         ]
     ]
 }

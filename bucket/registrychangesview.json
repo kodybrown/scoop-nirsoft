@@ -28,7 +28,7 @@
     "shortcuts": [
         [
             "RegistryChangesView.exe",
-            "NirSoft\\RegistryChangesView"
+            "NirSoft\\RegistryChangesView - Compares 2 snapshots of Windows Registry"
         ]
     ]
 }

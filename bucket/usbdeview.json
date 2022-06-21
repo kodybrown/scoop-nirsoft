@@ -1,7 +1,7 @@
 {
     "homepage": "https://www.nirsoft.net/utils/usb_devices_view.html",
     "checkver": "USBDeview v(\\d+\\.\\d\\d)",
-    "version": "3.02",
+    "version": "3.03",
     "license": "freeware",
     "description": "USBDeview is a small utility that lists all USB devices that currently connected to your computer, as well as all USB devices that you previously used. For each USB device, extended information is displayed: Device name/description, device type, serial number (for mass storage devices), the date/time that device was added, VendorID, ProductID, and more... USBDeview also allows you to uninstall USB devices that you previously used, and disconnect USB devices that are currently connected to your computer. You can also use USBDeview on a remote computer, as long as you login to that computer with admin user.",
     "architecture": {
@@ -11,8 +11,8 @@
                 "http://www.linux-usb.org/usb.ids"
             ],
             "hash": [
-                "1802eccdc6eed1f1b5b50c59344677394c1b4a0590fe34450909ad13e3823cdd",
-                "61c7cf12d9bc5850afdffdbc789e8447ed58f20663e78d15cbb6aa41eda8bbe3"
+                "d42bc343bd09c324545b46de69a0ee6b659fba5299f9be44bb06ca1129009f8d",
+                "35e4fdd23194351eda8aa6176c3299fda481b0aaaa2a60ec6f97e01371e1a407"
             ]
         },
         "32bit": {
@@ -21,8 +21,8 @@
                 "http://www.linux-usb.org/usb.ids"
             ],
             "hash": [
-                "7d57df95dac449a9c021f8e774f4e7d7d22f8ab82bc5852f29873d3b58c27184",
-                "61c7cf12d9bc5850afdffdbc789e8447ed58f20663e78d15cbb6aa41eda8bbe3"
+                "6ed4abb6a3e530e6352d74df4e97c37961921d57b5850bbd804094cd491590b6",
+                "35e4fdd23194351eda8aa6176c3299fda481b0aaaa2a60ec6f97e01371e1a407"
             ]
         }
     },
@@ -40,7 +40,7 @@
     "shortcuts": [
         [
             "USBDeview.exe",
-            "NirSoft\\USBDeview"
+            "NirSoft\\USBDeview - Lists all installed USB devices"
         ]
     ]
 }
