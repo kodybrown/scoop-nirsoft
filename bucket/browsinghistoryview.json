@@ -7,11 +7,11 @@
     "architecture": {
         "64bit": {
             "url": "https://www.nirsoft.net/utils/browsinghistoryview-x64.zip",
-            "hash": "f61fd920abbc129c777cd1c108357399aadc415166b5dea1467b148441ce3fef"
+            "hash": "6DBA0C6758FDA0956A5061A1EA1E7BCB748D4683889DBFAC6E7A47DEF0C6F8B1"
         },
         "32bit": {
             "url": "https://www.nirsoft.net/utils/browsinghistoryview.zip",
-            "hash": "48bcb4a911571d60c512d98a65965bc5fff0bed38d85123524efb4d0cfff6eda"
+            "hash": "7C51F151CE21F6F976E20DC25E40111B5DFB439A8EF54B59404C1F827080168A"
         }
     },
     "autoupdate": {
