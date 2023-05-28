@@ -17,4 +17,4 @@ For an app to be acceptable for the main bucket, it should be:
 
 The "extras" bucket has more relaxed requirements, so it's a good place to put anything that doesn't quite fit in the main bucket.
 
-The "nirsoft" bucket is specifically for the many (dozens and dozens) of utilities found on the NirSoft website.
+The "nirsoft" bucket is specifically for the many (hundreds) of utilities found on the NirSoft website.
