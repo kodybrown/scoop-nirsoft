@@ -151,6 +151,8 @@ foreach ($PadURI in $PadURIs) {
     }
 
     $JSON | ConvertToPrettyJson | Out-File ("$BucketDir\" + ($ProgramName.ToLower() -replace " ", "") + ".json") -Encoding ascii
+
+    Start-Sleep -Seconds 1
 }
 
 Remove-Item $TempFile.FullName -Force
