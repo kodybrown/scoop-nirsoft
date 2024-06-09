@@ -1,6 +1,7 @@
 # NOTE
 
 This repo is no longer one of the "known" buckets for scoop. :-)
+
 Please run this:
 
 ```
@@ -16,7 +17,7 @@ PS> scoop bucket list
 Name       Source                                             Updated              Manifests
 ----       ------                                             -------              ---------
 main       https://github.com/ScoopInstaller/Main             6/9/2024 6:30:58 AM       1327
-nirsoft    https://github.com/ScoopInstaller/Nirsoft          6/7/2024 10:24:26 PM       283
+nirsoft    https://github.com/**ScoopInstaller/Nirsoft**          6/7/2024 10:24:26 PM       283
 ```
 
 # scoop-nirsoft
